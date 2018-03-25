@@ -18,7 +18,7 @@ My main interests include: algorithms and data structures for data compression, 
 
 # News
 
-* ***9 Feb 2018***. Our paper: *Dominik Kempa and Nicola Prezza. "At the Roots of Dictionary Compression: String Attractors."* has been accepted to [**STOC 2018**](http://acm-stoc.org/stoc2018/)! see you in Los Angeles!
+* ***9 Feb 2018***. Our paper: *Dominik Kempa and Nicola Prezza. "At the Roots of Dictionary Compression: String Attractors."* has been accepted at [**STOC 2018**](http://acm-stoc.org/stoc2018/)! see you in Los Angeles!
 * ***9 Jan 2018***. I had the pleasure to present these two papers at  [**SODA 2018**](http://www.siam.org/meetings/da18/) (New Orleans): 
 	+ *Nicola Prezza. "In-Place Sparse Suffix Sorting."*
 	+ *Travis Gagie, Gonzalo Navarro, and Nicola Prezza. "Optimal-time text indexing in BWT-runs bounded space."*
