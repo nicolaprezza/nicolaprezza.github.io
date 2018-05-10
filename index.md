@@ -14,6 +14,8 @@ Hi! I am a postdoctoral researcher at the university of Pisa since March 2018. H
 
 My main interests include: algorithms and data structures for data compression, information theory, bioinformatics, and programming (check also my [github page](https://github.com/nicolaprezza)). 
 
+You can download my up-to-date CV [here](./figures/CV.pdf).
+
 
 
 # News
