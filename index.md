@@ -20,6 +20,7 @@ You can download my up-to-date CV [here](./figures/CV.pdf).
 
 # News
 
+
 * ***9 Feb 2018***. Our [paper](pdfs/stoc18.pdf): *Dominik Kempa and Nicola Prezza. "At the Roots of Dictionary Compression: String Attractors."* has been accepted at [**STOC 2018**](http://acm-stoc.org/stoc2018/)! see you in Los Angeles!
 * ***9 Jan 2018***. I had the pleasure to present these two papers at  [**SODA 2018**](http://www.siam.org/meetings/da18/) (New Orleans): 
 	+ *Nicola Prezza. "In-Place Sparse Suffix Sorting."*
