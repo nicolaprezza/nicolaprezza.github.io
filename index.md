@@ -20,7 +20,7 @@ You can download my up-to-date CV [here](./pdfs/CV.pdf).
 
 # News
 
-
+* ***15 Jun 2018***. Our paper *Dominik Kempa, Alberto Policriti, Nicola Prezza, and Eva Rotenberg. "String Attractors: Verification and Optimization"* has been accepted at [**ESA 2018**](http://algo2018.hiit.fi/esa/)! 
 * ***9 Feb 2018***. Our [paper](pdfs/stoc18.pdf): *Dominik Kempa and Nicola Prezza. "At the Roots of Dictionary Compression: String Attractors."* has been accepted at [**STOC 2018**](http://acm-stoc.org/stoc2018/)! see you in Los Angeles!
 * ***9 Jan 2018***. I had the pleasure to present these two papers at  [**SODA 2018**](http://www.siam.org/meetings/da18/) (New Orleans): 
 	+ *Nicola Prezza. "In-Place Sparse Suffix Sorting."*
@@ -28,4 +28,3 @@ You can download my up-to-date CV [here](./pdfs/CV.pdf).
 * ***20 Dec 2017***. I will co-teach a 3-weeks [summer school](http://www.udc.es/iss/courses/courses_2018/Compact_data_structures.html) on compact data structures with [Travis Gagie](https://www.cs.helsinki.fi/u/gagie/) from July 30 to August 17, 2018 at a Coruña (Spain). Student applications [are open](http://www.udc.es/iss/courses/Registration_fees/index.html?language=en)!
 * ***21 Nov 2017***. I will be on the program committee of the 29th Annual Symposium on Combinatorial Pattern Matching [CPM 2018](http://cpm2018.sdu.edu.cn/)
 * ***25 Jun 2017***. I will co-chair the 13th Workshop on Compression, Text and Algorithms [WCTA 2018](http://eventos.spc.org.pe/spire2018/)
-

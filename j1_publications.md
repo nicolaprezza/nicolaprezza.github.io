@@ -24,6 +24,8 @@ June 25-29, 2018 in Los Angeles, CA.*
 
 5. Nicola Prezza, Nadia Pisanti, Marinella Sciortino, and Giovanna Rosone. **Detecting Mutations by eBWT**. To appear in *Proceedings of WABI 2018*.
 
+6. Dominik Kempa, Alberto Policriti, Nicola Prezza, and Eva Rotenberg. **String Attractors: Verification and Optimization**. To appear in *Proceedings of ESA 2018*.
+
 <br>
 
 # **2017** #
