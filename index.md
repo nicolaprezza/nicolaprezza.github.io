@@ -20,6 +20,7 @@ You can download my up-to-date CV [here](./pdfs/CV.pdf).
 
 # News
 
+* ***21 Jun 2018***. I won the EATCS *best italian young researcher in Theoretical Computer Science 2018* Prize! The award will be assigned during [ICTCS 2018](http://www.sti.uniurb.it/events/ictcs2018/cfp.html) in Urbino, where I will also give an invited talk.
 * ***15 Jun 2018***. Our paper *Dominik Kempa, Alberto Policriti, Nicola Prezza, and Eva Rotenberg. "String Attractors: Verification and Optimization"* has been accepted at [**ESA 2018**](http://algo2018.hiit.fi/esa/)! 
 * ***9 Feb 2018***. Our [paper](pdfs/stoc18.pdf): *Dominik Kempa and Nicola Prezza. "At the Roots of Dictionary Compression: String Attractors."* has been accepted at [**STOC 2018**](http://acm-stoc.org/stoc2018/)! see you in Los Angeles!
 * ***9 Jan 2018***. I had the pleasure to present these two papers at  [**SODA 2018**](http://www.siam.org/meetings/da18/) (New Orleans): 
