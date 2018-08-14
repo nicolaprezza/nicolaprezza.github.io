@@ -7,7 +7,7 @@ layout: default
 
 # About
 
-<img src="figures/bp.jpg" align="right" width="50%" hspace="30" vspace="0" alt="be balanced" />
+<img src="figures/bp.jpg" align="right" width="60%" hspace="30" vspace="0" alt="be balanced" />
 
 Hi! I am a postdoctoral researcher at the university of Pisa since March 2018. Here my main research is focused on bioinformatics applications of text compression techniques. Previously (January 2017 - March 2018), I held a postdoc position at the technical university of Denmark (DTU), Copenhagen. Before that (January 2014 - December 2016), I was a PhD student at the university of Udine (Italy).
 
