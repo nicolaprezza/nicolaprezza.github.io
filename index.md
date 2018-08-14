@@ -11,8 +11,7 @@ layout: default
 
 Hi! I am a postdoctoral researcher at the university of Pisa since March 2018. Here my main research is focused on bioinformatics applications of text compression techniques. Previously (January 2017 - March 2018), I held a postdoc position at the technical university of Denmark (DTU), Copenhagen. Before that (January 2014 - December 2016), I was a PhD student at the university of Udine (Italy).
 
-
-My main interests include: algorithms and data structures for data compression, information theory, bioinformatics, and programming (check also my [github page](https://github.com/nicolaprezza)). 
+My interests include: algorithms and data structures for data compression, information theory, bioinformatics, and programming (check also my [github page](https://github.com/nicolaprezza)). 
 
 You can download my up-to-date CV [here](./pdfs/CV.pdf).
 
