@@ -8,7 +8,7 @@ Most of my software can be found at my [github page](https://github.com/nicolapr
 
 <br>
 
-### eBWTclust: positional clustering of the Burrows-Wheeler Transform###
+### eBWTclust: positional clustering of the Burrows-Wheeler Transform ###
 ----
 
 [eBWTclust](https://github.com/nicolaprezza/eBWTclust) finds clusters corresponding to the same genome position in the eBWT of a set of DNA reads of two individuals and, by analyzing these clusters, it finds SNPs between the two individuals (reference-free, alignment-free).
