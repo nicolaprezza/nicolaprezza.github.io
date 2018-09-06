@@ -8,23 +8,28 @@ Below you find a list of my publications, ordered by year.
 
 # **2018** #
 ----
+
+#### International Journals ####
+
+1. Philip Bille, Travis Gagie, Inge Li Gørtz, and Nicola Prezza. **A Separation Between RLSLPs and LZ77**. To appear in *Journal of Discrete Algorithms* (accepted for publication).
+
 #### International Conferences ####
 
 
 1. Dominik Kempa and Nicola Prezza.
 **At the Roots of Dictionary Compression: String Attractors**. 
-To appear in *proceedings of the 50th Annual ACM Symposium on the Theory of Computing (STOC)
+*Proceedings of the 50th Annual ACM Symposium on the Theory of Computing (STOC)
 June 25-29, 2018 in Los Angeles, CA.*
 
 2. Travis Gagie, Gonzalo Navarro, and Nicola Prezza. **Optimal-Time Text Indexing in BWT-runs Bounded Space**. *Proceedings of the Twenty-Ninth Annual ACM-SIAM Symposium on Discrete Algorithms (SODA)*. Pages 1459-1477.
 
 3. Nicola Prezza. **In-Place Sparse Suffix Sorting**. *Proceedings of the Twenty-Ninth Annual ACM-SIAM Symposium on Discrete Algorithms (SODA)*. Pages 1496-1508.
 
-4. Travis Gagie, Gonzalo Navarro, and Nicola Prezza. **On the Approximation Ratio of Lempel-Ziv Parsing**. To appear in *Proceedings of LATIN 2018*.
+4. Travis Gagie, Gonzalo Navarro, and Nicola Prezza. **On the Approximation Ratio of Lempel-Ziv Parsing**. *Proceedings of LATIN 2018*.
 
-5. Nicola Prezza, Nadia Pisanti, Marinella Sciortino, and Giovanna Rosone. **Detecting Mutations by eBWT**. To appear in *Proceedings of WABI 2018*.
+5. Nicola Prezza, Nadia Pisanti, Marinella Sciortino, and Giovanna Rosone. **Detecting Mutations by eBWT**. *Proceedings of WABI 2018*.
 
-6. Dominik Kempa, Alberto Policriti, Nicola Prezza, and Eva Rotenberg. **String Attractors: Verification and Optimization**. To appear in *Proceedings of ESA 2018*.
+6. Dominik Kempa, Alberto Policriti, Nicola Prezza, and Eva Rotenberg. **String Attractors: Verification and Optimization**. *Proceedings of ESA 2018*.
 
 <br>
 
