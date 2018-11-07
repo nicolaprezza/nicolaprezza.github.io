@@ -11,9 +11,9 @@ Below you find a list of my publications, ordered by year.
 
 #### International Journals ####
 
-1. Philip Bille, Travis Gagie, Inge Li Gørtz, and Nicola Prezza. **A Separation Between RLSLPs and LZ77**. To appear in *Journal of Discrete Algorithms* (accepted for publication).
+1. Philip Bille, Travis Gagie, Inge Li Gørtz, and Nicola Prezza. **A Separation Between RLSLPs and LZ77**. *Journal of Discrete Algorithms*.
 
-2. Gonzalo Navarro and Nicola Prezza. **Universal Compressed Text Indexing**. To appear in *Theoretical Computer Science* (accepted for publication)
+2. Gonzalo Navarro and Nicola Prezza. **Universal Compressed Text Indexing**. *Theoretical Computer Science*.
 
 #### International Conferences ####
 
