@@ -33,6 +33,8 @@ June 25-29, 2018 in Los Angeles, CA.*
 
 6. Dominik Kempa, Alberto Policriti, Nicola Prezza, and Eva Rotenberg. **String Attractors: Verification and Optimization**. *Proceedings of ESA 2018*.
 
+7. Nicola Prezza. **On String Attractors**. Short communication. In ICTCS, pp. 12-16. http://ceur-ws.org/Vol-2243/. 2018.
+
 <br>
 
 # **2017** #
