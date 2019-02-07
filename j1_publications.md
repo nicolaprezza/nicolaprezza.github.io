@@ -6,6 +6,14 @@ permalink: /publications/
 
 Below you find a list of my publications, ordered by year. 
 
+# **2019** #
+----
+
+#### International Journals ####
+
+1. Nicola Prezza, Nadia Pisanti, Marinella Sciortino, and Giovanna Rosone. **SNPs detection by eBWT positional clustering**. *Algorithms for Molecular Biology*. https://doi.org/10.1186/s13015-019-0137-8
+
+
 # **2018** #
 ----
 
