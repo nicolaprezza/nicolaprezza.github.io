@@ -8,24 +8,30 @@ Most of my software can be found at my [github page](https://github.com/nicolapr
 
 <br>
 
-### eBWTclust: positional clustering of the Burrows-Wheeler Transform ###
 ----
+### ebwt2snp ###
 
-[eBWTclust](https://github.com/nicolaprezza/eBWTclust) finds clusters corresponding to the same genome position in the eBWT of a set of DNA reads of two individuals and, by analyzing these clusters, it finds SNPs between the two individuals (reference-free, alignment-free).
+[ebwt2snp](https://github.com/nicolaprezza/ebwt2snp-v2) is a tool implementing a novel algorithm for finding SNPs/INDELs in a set of reads by processing just the Burrows-Wheeler transform (BWT) of the input. The tool is based on the observations that, in the BWT, SNPs and INDELs are clustered since they share the same context. The tool also implements a novel succinct suffix-array navigation algorithm. Publications:
 
-The paper describing the theory behind the tool (eBWT positional clustering) can be found here: https://arxiv.org/abs/1805.01876
+- Nicola Prezza, Nadia Pisanti, Marinella Sciortino, and Giovanna Rosone, 2019. **SNPs detection by eBWT positional clustering**. Algorithms for Molecular Biology, 14(1), p.3.
 
+- Nicola Prezza, Nadia Pisanti, Marinella Sciortino, and Giovanna Rosone, 2018. **Detecting mutations by eBWT**. In 18th International Workshop on Algorithms in Bioinformatics, (WABI 2018). Vol. 113, pp. 1-15. Schloss Dagstuhl-Leibniz-Zentrum fur Informatik GmbH, Dagstuhl Publishing.
 
-### The run-length Compressed Burrows-Wheeler transform index (r-index) ###
+- Nicola Prezza and Giovanna Rosone, 2019. **Space-Efficient Computation of the LCP Array from the Burrows-Wheeler Transform**. arXiv preprint arXiv:1901.05226
+
 ----
+### r-index ###
+
 The [r-index](https://github.com/nicolaprezza/r-index) is the first full-text index of size O(r), r being the number of BWT runs of the input text (of size n), supporting near-optimal locate of pattern occurrences. The r-index employs a novel suffix array sampling of size 2r; in classical FM-indexes, this sampling would result in a locate time of Omega(n/r) per occurrence. The r-index, on the other hand, reduces this time to O(log(n/r)).
 
-### DYNAMIC: Dynamic succinct and compressed data structures ###
 ----
+### DYNAMIC ###
+
 [DYNAMIC](https://github.com/xxsds/DYNAMIC) is a C++ library offering space- and time-efficient implementations of some basic succinct/compressed dynamic data structures such as succinct dynamic partial sums, bitvectors, strings. 
 
-### ERNE: The Extended Randomized Numerical alignEr ###
 ----
+### ERNE 2 ###
+
 This tool, developed in collaboration with the university of Udine and the [Institute of Applied Genomics](http://www.appliedgenomics.org/en/), includes: 
 
 - A DNA short-reads aligner.
