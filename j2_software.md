@@ -7,7 +7,6 @@ permalink: /software/
 Most of my software can be found at my [github page](https://github.com/nicolaprezza). Below you can find  a list of my main projects.
 
 <br>
-
 ----
 ### ebwt2snp ###
 
@@ -19,16 +18,19 @@ Most of my software can be found at my [github page](https://github.com/nicolapr
 
 - Nicola Prezza and Giovanna Rosone, 2019. **Space-Efficient Computation of the LCP Array from the Burrows-Wheeler Transform**. arXiv preprint arXiv:1901.05226
 
+<br>
 ----
 ### r-index ###
 
 The [r-index](https://github.com/nicolaprezza/r-index) is the first full-text index of size O(r), r being the number of BWT runs of the input text (of size n), supporting near-optimal locate of pattern occurrences. The r-index employs a novel suffix array sampling of size 2r; in classical FM-indexes, this sampling would result in a locate time of Omega(n/r) per occurrence. The r-index, on the other hand, reduces this time to O(log(n/r)).
 
+<br>
 ----
 ### DYNAMIC ###
 
 [DYNAMIC](https://github.com/xxsds/DYNAMIC) is a C++ library offering space- and time-efficient implementations of some basic succinct/compressed dynamic data structures such as succinct dynamic partial sums, bitvectors, strings. 
 
+<br>
 ----
 ### ERNE 2 ###
 
