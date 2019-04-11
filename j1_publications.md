@@ -12,7 +12,7 @@ Below you find a list of my publications.
 
 #### International Journals ####
 
-1. Antonio Fariña, Miguel A. Martı́nez-Prieto, Francisco Claude, Gonzalo Navarro, Juan J. Lastra-Díaz [r], Nicola Prezza [r], and Diego Seco [r], 2019 ([r] = reproducibility reviewers). **On the Reproducibility of Experiments of Indexing Repetitive Document Collections**. Accepted for publication in Information Systems.
+1. Antonio Fariña, Miguel A. Martı́nez-Prieto, Francisco Claude, Gonzalo Navarro, Juan J. Lastra-Díaz [r], Nicola Prezza [r], and Diego Seco [r], 2019 ([r] = reproducibility reviewers). **On the Reproducibility of Experiments of Indexing Repetitive Document Collections**. Information Systems, Volume 83, Pages 181-194.
 
 2. Nicola Prezza, Nadia Pisanti, Marinella Sciortino, and Giovanna Rosone, 2019. **SNPs detection by eBWT positional clustering**. Algorithms for Molecular Biology, 14(1), p.3.
 
@@ -30,9 +30,9 @@ Below you find a list of my publications.
 
 #### International Conferences ####
 
-9. Nicola Prezza, 2019. **Optimal Rank and Select Queries on Dictionary-Compressed Text**. Accepted for publication in proceedings of the 30th Annual Symposium on Combinatorial Pattern Matching (CPM).
+9. Nicola Prezza, 2019. **Optimal Rank and Select Queries on Dictionary-Compressed Text**. Proceedings of the 30th Annual Symposium on Combinatorial Pattern Matching (CPM).
 
-10. Nicola Prezza and Giovanna Rosone, 2019. **Space-Efficient Computation of the LCP Array from the Burrows-Wheeler Transform**. Accepted for publication in proceedings of the 30th Annual Symposium on Combinatorial Pattern Matching (CPM).
+10. Nicola Prezza and Giovanna Rosone, 2019. **Space-Efficient Computation of the LCP Array from the Burrows-Wheeler Transform**. Proceedings of the 30th Annual Symposium on Combinatorial Pattern Matching (CPM).
 
 11. Dominik Kempa and Nicola Prezza, 2018. **At the Roots of Dictionary Compression: String Attractors**. In Proceedings of the 50th Annual ACM SIGACT Symposium on Theory of Computing (STOC), June 25-29, 2018, Los Angeles, CA. pp. 827-840. ACM.
 
