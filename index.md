@@ -13,10 +13,11 @@ My research activity is focused on the study of algorithms for the manipulation 
 
 # News
 
+* ***25 sept 2019***. Our [paper](https://arxiv.org/abs/1902.01088): *Jarno Alanko, Giovanna D'Agostino, Alberto Policriti, and Nicola Prezza. "Regular Languages meet Prefix Sorting"* has been accepted at [**SODA 2020**](https://www.siam.org/Conferences/CM/Conference/soda20)
 * ***29 Jun 2018***. My PhD thesis has been awarded the UniUD [**PhD award**](https://qui.uniud.it/notizieEventi/ateneo/phd-awards-assegnati-alle-migliori-tesi-di-dottorato-2017) (for one of the six best PhD theses at the university of Udine in the year 2017)
 * ***21 Jun 2018***. I won the EATCS Prize [**"best italian young researcher in Theoretical Computer Science 2018"**](https://www.eatcs.org/index.php/italian-chapter)! The award has been assigned during [ICTCS 2018](http://www.sti.uniurb.it/events/ictcs2018/cfp.html) in Urbino, where I also gave an invited talk.
-* ***15 Jun 2018***. Our paper *Dominik Kempa, Alberto Policriti, Nicola Prezza, and Eva Rotenberg. "String Attractors: Verification and Optimization"* has been accepted at [**ESA 2018**](http://algo2018.hiit.fi/esa/)! 
-* ***9 Feb 2018***. Our [paper](pdfs/stoc18.pdf): *Dominik Kempa and Nicola Prezza. "At the Roots of Dictionary Compression: String Attractors."* has been accepted at [**STOC 2018**](http://acm-stoc.org/stoc2018/)! see you in Los Angeles!
+* ***15 Jun 2018***. Our paper *Dominik Kempa, Alberto Policriti, Nicola Prezza, and Eva Rotenberg. "String Attractors: Verification and Optimization"* has been accepted at [**ESA 2018**](http://algo2018.hiit.fi/esa/)
+* ***9 Feb 2018***. Our [paper](pdfs/stoc18.pdf): *Dominik Kempa and Nicola Prezza. "At the Roots of Dictionary Compression: String Attractors."* has been accepted at [**STOC 2018**](http://acm-stoc.org/stoc2018/). see you in Los Angeles!
 * ***9 Jan 2018***. I had the pleasure to present these two papers at  [**SODA 2018**](http://www.siam.org/meetings/da18/) (New Orleans): 
 	+ *Nicola Prezza. "In-Place Sparse Suffix Sorting."*
 	+ *Travis Gagie, Gonzalo Navarro, and Nicola Prezza. "Optimal-time text indexing in BWT-runs bounded space."*
