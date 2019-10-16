@@ -8,9 +8,9 @@ Most of my software can be found at my [github page](https://github.com/nicolapr
 
 <br>
 ----
-### ebwt2snp ###
+### ebwt2InDel ###
 
-[ebwt2snp](https://github.com/nicolaprezza/ebwt2snp-v2) is a tool implementing a novel algorithm for finding SNPs/INDELs in a set of reads by processing just the Burrows-Wheeler transform (BWT) of the input. The tool is based on the observations that, in the BWT, SNPs and INDELs are clustered since they share the same context. The tool also implements a novel succinct suffix-array navigation algorithm. Publications:
+[ebwt2InDel](https://github.com/nicolaprezza/ebwt2InDel) is a tool implementing a novel algorithm for finding SNPs/INDELs in a set of reads by processing just the Burrows-Wheeler transform (BWT) of the input. The tool is based on the observations that, in the BWT, SNPs and INDELs are clustered since they share the same context. The tool also implements a novel succinct suffix-array navigation algorithm. Publications:
 
 - Nicola Prezza, Nadia Pisanti, Marinella Sciortino, and Giovanna Rosone, 2019. **SNPs detection by eBWT positional clustering**. Algorithms for Molecular Biology, 14(1), p.3.
 
