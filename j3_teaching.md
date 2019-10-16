@@ -20,7 +20,6 @@ permalink: /teaching/
 
 - **Sequence Analysis for Epigenomics**. 2nd Bioinformatics Introductory Course, Polo d’Innovazione Genomica, Genetica e Biologia, Perugia. 
 
-
 | ![CDS](figures/cds-800.jpg) | 
 |:--:| 
-| *Me, Travis, Gonzalo (and his book!), and our wonderful class at the [**Compact data structures**](https://www.udc.es/gl/iss/courses/courses_2018/Compact_data_structures/index.html) summer school in Coruña (2018)* |
+| *Me, Travis, Gonzalo (and his book!), and our wonderful class at the [**Compact data structures**](http://www.birdsproject.eu/course-compact-data-structures-during-udcs-international-summer-school-2018/) summer school in Coruña (2018)* |
