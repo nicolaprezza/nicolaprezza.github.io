@@ -22,12 +22,12 @@ My research activity is focused on the study of algorithms and data structures f
 
 # News
 
-* ***31 Oct 2019***. Invited speaker at The 5th International Workshop on Innovative Algorithms for Big Data [IABD 2019](https://sites.google.com/view/iabd2019/iabd2019), Kyoto.
-* ***18 Oct 2019***. Program committee of the 31th Annual Symposium on Combinatorial Pattern Matching [CPM 2020].
-* ***17 Oct 2019***. Keynote speaker at the first [AlgPie](https://algpie.mimuw.edu.pl/) workshop organized by IGAFIT, Poland.
-* ***19 Jun 2019***. Invited highlight speaker at the 30th Annual Symposium on Combinatorial Pattern Matching [CPM 2019](http://cpm2019.di.unipi.it/), Pisa.
-* ***29 Jun 2018***. My PhD thesis has been awarded the UniUD [**PhD award**](https://qui.uniud.it/notizieEventi/ateneo/phd-awards-assegnati-alle-migliori-tesi-di-dottorato-2017) (for one of the six best PhD theses at the university of Udine in the year 2017).
-* ***21 Jun 2018***. I won the EATCS Prize [**"best italian young researcher in Theoretical Computer Science 2018"**](https://www.eatcs.org/index.php/italian-chapter)! The award has been assigned during [ICTCS 2018](http://www.sti.uniurb.it/events/ictcs2018/cfp.html) in Urbino, where I also gave an invited talk.
-* ***20 Dec 2017***. I co-teached a 3-weeks [summer school](http://www.udc.es/gl/iss/courses/courses_2018/Compact_data_structures) on compact data structures with [Travis Gagie](https://www.cs.helsinki.fi/u/gagie/) from July 30 to August 17, 2018 at a Coruña (Spain). 
-* ***21 Nov 2017***. Program committee of the 29th Annual Symposium on Combinatorial Pattern Matching [CPM 2018](http://cpm2018.sdu.edu.cn/).
-* ***25 Jun 2017***. Co-chair of the 13th Workshop on Compression, Text and Algorithms [WCTA 2018](http://eventos.spc.org.pe/spire2018/).
+* Invited speaker at The 5th International Workshop on Innovative Algorithms for Big Data [IABD 2019](https://sites.google.com/view/iabd2019/iabd2019), Kyoto.
+* Program committee of the 31th Annual Symposium on Combinatorial Pattern Matching [CPM 2020].
+* Keynote speaker at the first [AlgPie](https://algpie.mimuw.edu.pl/) workshop organized by IGAFIT, Poland.
+* Invited highlight speaker at the 30th Annual Symposium on Combinatorial Pattern Matching [CPM 2019](http://cpm2019.di.unipi.it/), Pisa.
+* My PhD thesis has been awarded the UniUD [**PhD award**](https://qui.uniud.it/notizieEventi/ateneo/phd-awards-assegnati-alle-migliori-tesi-di-dottorato-2017) (for one of the six best PhD theses at the university of Udine in the year 2017).
+* I have been awarded the [**"best italian young researcher in Theoretical Computer Science 2018"**](https://www.eatcs.org/index.php/italian-chapter) award by IC-EATCS! The award has been assigned during [ICTCS 2018](http://www.sti.uniurb.it/events/ictcs2018/cfp.html) in Urbino, where I also gave an invited talk.
+* I co-teached a 3-weeks [summer school](http://www.udc.es/gl/iss/courses/courses_2018/Compact_data_structures) on compact data structures with [Travis Gagie](https://www.cs.helsinki.fi/u/gagie/) from July 30 to August 17, 2018 at a Coruña (Spain). 
+* Program committee of the 29th Annual Symposium on Combinatorial Pattern Matching [CPM 2018](http://cpm2018.sdu.edu.cn/).
+* Co-chair of the 13th Workshop on Compression, Text and Algorithms [WCTA 2018](http://eventos.spc.org.pe/spire2018/).
