@@ -22,6 +22,7 @@ My research activity is focused on the study of algorithms and data structures f
 
 # News
 
+* Invited speaker at the 18th Symposium on Experimental Algorithms June 16-18, 2020, Catania, Italy. [SEA 2020](http://www.sea2020.dmi.unict.it/).
 * Invited speaker at The 5th International Workshop on Innovative Algorithms for Big Data [IABD 2019](https://sites.google.com/view/iabd2019/iabd2019), Kyoto.
 * Program committee of the 31th Annual Symposium on Combinatorial Pattern Matching [CPM 2020].
 * Keynote speaker at the first [AlgPie](https://algpie.mimuw.edu.pl/) workshop organized by IGAFIT, Poland.
