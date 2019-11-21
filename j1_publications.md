@@ -12,6 +12,8 @@ Below you find a list of my publications.
 
 #### International Journals ####
 
+1. Travis Gagie, Gonzalo Navarro, and Nicola Prezza, 2020. *Fully-Functional Suffix Trees and Optimal Text Searching in BWT-runs Bounded Space*. Accepted for publication on the **Journal of the ACM**.
+
 1. Antonio Fariña, Miguel A. Martı́nez-Prieto, Francisco Claude, Gonzalo Navarro, Juan J. Lastra-Díaz [r], Nicola Prezza [r], and Diego Seco [r], 2019 ([r] = reproducibility reviewers). *On the Reproducibility of Experiments of Indexing Repetitive Document Collections*. **Information Systems**, Volume 83, Pages 181-194.
 
 1. Nicola Prezza, Nadia Pisanti, Marinella Sciortino, and Giovanna Rosone, 2019. *SNPs detection by eBWT positional clustering*. **Algorithms for Molecular Biology**, 14(1), p.3.
