@@ -8,14 +8,18 @@ layout: default
 
 Hi! I am a postdoctoral researcher at the university of Pisa since March 2018. Previously (January 2017 - March 2018), I held a postdoc position at the technical university of Denmark (DTU), Copenhagen. Before that (January 2014 - December 2016), I was a PhD student at the university of Udine (Italy). You can download my PhD thesis [here](pdfs/Compressed Computation for Text Indexing.pdf).
 
-My research activity is focused on the study of algorithms and data structures for the manipulation and analysis of compressed strings and graphs, both from the theoretical and practical viewpoints and with applications to bioinformatics. My main contributions include (i) the introduction of the notion of *string attractor* (STOC '18), a new combinatorial object that unifies all known compressors for repetitive sequences introduced in the last decades (for example, grammars, Lempel-Ziv 77, and the run-length BWT), and (ii) the *r-index* (SODA '18), a data structure that solves a problem (fast locate on FM-indexes) that has been open for almost two decades. In 2018, the Italian Chapter of the European Association for Theoretical Computer Science (IC-EATCS) awarded me the *best italian young researcher in Theoretical Computer Science 2018* award. I am also author of the first C++ library of compressed dynamic data structures ([DYNAMIC](https://github.com/xxsds/DYNAMIC)) and several other software tools for bioinformatics and data compression ([my github page](https://github.com/nicolaprezza)).
+My research is focused on algorithms and data structures for the manipulation and analysis of compressed strings and graphs, both from the theoretical and practical viewpoints and with applications to bioinformatics. My main contributions include (i) the introduction of the notion of *string attractor* (STOC '18), a new combinatorial object that unifies all known compressors for repetitive sequences introduced in the last decades (for example, grammars, Lempel-Ziv 77, and the run-length BWT), and (ii) the *r-index* (JACM'20, SODA '18), a data structure that solves a problem (fast locate on FM-indexes) that has been open for almost two decades. In 2018, the Italian Chapter of the European Association for Theoretical Computer Science (IC-EATCS) awarded me the *best italian young researcher in Theoretical Computer Science 2018* award. I am also author of the first C++ library of compressed dynamic data structures ([DYNAMIC](https://github.com/xxsds/DYNAMIC)) and several other software tools for bioinformatics and data compression ([my github page](https://github.com/nicolaprezza)).
 
 # Selected Publications
 
 * Travis Gagie, Gonzalo Navarro, and Nicola Prezza, 2020. *Fully-Functional Suffix Trees and Optimal Text Searching in BWT-runs Bounded Space*. Accepted for publication on the **Journal of the ACM**. Journal extension of:
-    * Travis Gagie, Gonzalo Navarro, and Nicola Prezza, 2018. *Optimal-Time Text Indexing in BWT-runs Bounded Space*. Proceedings of the 29th Annual ACM-SIAM Symposium on Discrete Algorithms, **SODA 2018**. Pages 1459-1477. [Download](pdfs/soda18_1.pdf).
+
+	* Travis Gagie, Gonzalo Navarro, and Nicola Prezza, 2018. *Optimal-Time Text Indexing in BWT-runs Bounded Space*. Proceedings of the 29th Annual ACM-SIAM Symposium on Discrete Algorithms, **SODA 2018**. Pages 1459-1477. [Download](pdfs/soda18_1.pdf).
+    
 * Jarno Alanko, Giovanna D'Agostino, Alberto Policriti, and Nicola Prezza. *Regular Languages meet Prefix Sorting*. To be presented at **SODA 2020**. [Download](pdfs/soda20.pdf).
+
 * Dominik Kempa and Nicola Prezza, 2018. *At the Roots of Dictionary Compression: String Attractors*. In Proceedings of the 50th Annual ACM SIGACT Symposium on Theory of Computing, **STOC 2018**, June 25-29, 2018, Los Angeles, CA. pp. 827-840. ACM. [Download](pdfs/stoc18.pdf).
+
 * Nicola Prezza, 2018. *In-Place Sparse Suffix Sorting*. Proceedings of the 29th Annual ACM-SIAM Symposium on Discrete Algorithms, **SODA 2018**. Pages 1496-1508. [Download](pdfs/soda18_2.pdf).
 
 # News
