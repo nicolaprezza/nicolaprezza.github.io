@@ -15,7 +15,6 @@ My research is focused on algorithms and data structures for the manipulation an
 * Travis Gagie, Gonzalo Navarro, and Nicola Prezza, 2020. *Fully-Functional Suffix Trees and Optimal Text Searching in BWT-runs Bounded Space*. Accepted for publication on the **Journal of the ACM**. Journal extension of:
 	* Travis Gagie, Gonzalo Navarro, and Nicola Prezza, 2018. *Optimal-Time Text Indexing in BWT-runs Bounded Space*. Proceedings of the 29th Annual ACM-SIAM Symposium on Discrete Algorithms, **SODA 2018**. Pages 1459-1477. [Download](pdfs/soda18_1.pdf).
 <br /><br />
-	
 * Jarno Alanko, Giovanna D'Agostino, Alberto Policriti, and Nicola Prezza. *Regular Languages meet Prefix Sorting*. To be presented at **SODA 2020**. [Download](pdfs/soda20.pdf).
 
 * Dominik Kempa and Nicola Prezza, 2018. *At the Roots of Dictionary Compression: String Attractors*. In Proceedings of the 50th Annual ACM SIGACT Symposium on Theory of Computing, **STOC 2018**, June 25-29, 2018, Los Angeles, CA. pp. 827-840. ACM. [Download](pdfs/stoc18.pdf).
