@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-<img src="figures/bp.jpg" align="right" width="50%" hspace="30" vspace="0" alt="be balanced" />
+<img src="figures/io2.jpg" align="right" width="50%" hspace="30" vspace="0" alt="be balanced" />
 
 Hi! I am a postdoctoral researcher at the university of Pisa since March 2018. Previously (January 2017 - March 2018), I held a postdoc position at the technical university of Denmark (DTU), Copenhagen. Before that (January 2014 - December 2016), I was a PhD student at the university of Udine (Italy). You can download my PhD thesis [here](pdfs/Compressed Computation for Text Indexing.pdf).
 

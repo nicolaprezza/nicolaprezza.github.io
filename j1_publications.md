@@ -4,11 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-Below you find a list of my publications. 
-
 #### PhD thesis ####
 
-- Nicola Prezza, 2017. *Compressed Computation for Text Indexing*. University of Udine. Supervisor: prof. Alberto Policriti. Awarded one of the two *Best Scientific PhD thesis award 2017, University of Udine*.
+- Nicola Prezza, 2017. [*Compressed Computation for Text Indexing*](pdfs/Compressed Computation for Text Indexing.pdf). University of Udine. Supervisor: prof. Alberto Policriti. Awarded one of the two *Best Scientific PhD thesis award 2017, University of Udine*. 
 
 #### International Journals ####
 
