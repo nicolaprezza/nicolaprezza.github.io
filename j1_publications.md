@@ -30,7 +30,9 @@ permalink: /publications/
 
 #### International Conferences ####
 
-1. Jarno Alanko, Giovanna D'Agostino, Alberto Policriti, and Nicola Prezza. *Regular Languages meet Prefix Sorting*. Accepted at **SODA 2020**.
+1. Philip Bille, Mikko Berggren Ettienne, Travis Gagie, Inge Li Gørtz, and Nicola Prezza. *Decompressing Lempel-Ziv Compressed Text*. Accepted at **DCC 2020**.
+
+1. Jarno Alanko, Giovanna D'Agostino, Alberto Policriti, and Nicola Prezza. *Regular Languages meet Prefix Sorting*. **SODA 2020**.
 
 1. Davide Della Giustina, Nicola Prezza and Rossano Venturini, 2019. *A new Linear-time Algorithm for Centroid Decomposition*. Proceedings of the 26th International Symposium on String Processing and Information Retrieval, **SPIRE 2019**.
 
