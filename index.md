@@ -23,10 +23,11 @@ I am committed both to theoretical computer science and to practice: I am the au
 
 # News
 
+* Program committee of the 27th International Symposium on String Processing and Information Retrieval [SPIRE 2020], to be held in Orlando, Florida.
 * From February 2020 I'll be Assistant Professor at LUISS University of Rome.
 * Invited speaker at the 18th Symposium on Experimental Algorithms June 16-18, 2020, Catania, Italy. [SEA 2020](http://www.sea2020.dmi.unict.it/).
 * Invited speaker at The 5th International Workshop on Innovative Algorithms for Big Data [IABD 2019](https://sites.google.com/view/iabd2019/iabd2019), Kyoto.
-* Program committee of the 31th Annual Symposium on Combinatorial Pattern Matching [CPM 2020].
+* Program committee of the 31th Annual Symposium on Combinatorial Pattern Matching [CPM 2020], to be held in Copenhagen.
 * Keynote speaker at the first [AlgPie](https://algpie.mimuw.edu.pl/) workshop organized by IGAFIT, Poland.
 * Invited highlight speaker at the 30th Annual Symposium on Combinatorial Pattern Matching [CPM 2019](http://cpm2019.di.unipi.it/), Pisa.
 * My PhD thesis has been awarded the UniUD [**PhD award**](https://qui.uniud.it/notizieEventi/ateneo/phd-awards-assegnati-alle-migliori-tesi-di-dottorato-2017) (for one of the six best PhD theses at the university of Udine in the year 2017).
