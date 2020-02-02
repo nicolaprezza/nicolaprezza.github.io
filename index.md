@@ -6,9 +6,9 @@ layout: default
 
 <img src="figures/io2.jpg" align="right" width="50%" hspace="30" vspace="0" alt="be balanced" />
 
-My research is focused on algorithms and data structures for the manipulation and analysis of compressed strings and graphs, both from the theoretical and practical viewpoints and with applications to bioinformatics. I earned my PhD in Computer science from the university of Udine in 2017, with a [thesis](pdfs/Compressed Computation for Text Indexing.pdf) on dynamic compressed data structures under the supervision of Prof. Alberto Policriti. After that, I have been postdoc researcher for 14 months at the technical university of Copenhagen (DTU) and for 22 months at the university of Pisa. 
+Hi! I'm an Assistant Professor in computer science at the LUISS University of Rome. My research is focused on algorithms and data structures for the manipulation and analysis of compressed strings and graphs, both from the theoretical and practical viewpoints and with applications to bioinformatics. I earned my PhD in Computer science from the university of Udine in 2017, with a [thesis](pdfs/Compressed Computation for Text Indexing.pdf) on dynamic compressed data structures under the supervision of Prof. Alberto Policriti. After that, I have been postdoc researcher for 14 months at the technical university of Copenhagen (DTU) and for 22 months at the university of Pisa. 
 
-I am committed both to theoretical computer science and to practice: I am the author of the first C++ [library](github.com/xxsds/DYNAMIC) of dynamic compressed data structures, and of about other 30 github repositories dealing with data compression and bioinformatics. I served on the program committees of CPM 2018, CPM 2020, co-chaired the 13th Workshop on Compression, Text and Algorithms (WCTA 2018), and I have been invited speaker at ICTCS 2018, IABD 2019, CPM 2019, and SEA 2020. I am also the recipient of the 2018 [Best Young Researcher in Theoretical Computer Science](https://www.eatcs.org/index.php/italian-chapter) award of the Italian Chapter of the European Association for Theoretical Computer Science.
+I am committed both to theoretical computer science and to practice: I am the author of the first C++ [library](github.com/xxsds/DYNAMIC) of dynamic compressed data structures, and of about other 30 github repositories dealing with data compression and bioinformatics. I am/have been on the program committees of CPM 2018, CPM 2020, SPIRE 2020, co-chaired the 13th Workshop on Compression, Text and Algorithms (WCTA 2018), and I have been invited speaker at ICTCS 2018, IABD 2019, CPM 2019, and SEA 2020. I am also the recipient of the 2018 [Best Young Researcher in Theoretical Computer Science](https://www.eatcs.org/index.php/italian-chapter) award of the Italian Chapter of the European Association for Theoretical Computer Science.
 
 # Selected Publications
 
@@ -24,7 +24,6 @@ I am committed both to theoretical computer science and to practice: I am the au
 # News
 
 * Program committee of the 27th International Symposium on String Processing and Information Retrieval [SPIRE 2020], to be held in Orlando, Florida.
-* From February 2020 I'll be Assistant Professor at LUISS University of Rome.
 * Invited speaker at the 18th Symposium on Experimental Algorithms June 16-18, 2020, Catania, Italy. [SEA 2020](http://www.sea2020.dmi.unict.it/).
 * Invited speaker at The 5th International Workshop on Innovative Algorithms for Big Data [IABD 2019](https://sites.google.com/view/iabd2019/iabd2019), Kyoto.
 * Program committee of the 31th Annual Symposium on Combinatorial Pattern Matching [CPM 2020], to be held in Copenhagen.
