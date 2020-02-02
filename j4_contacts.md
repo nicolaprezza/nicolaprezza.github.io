@@ -5,8 +5,8 @@ permalink: /contacts/
 ---
 
 
-- **Room**: 344
-- **Department**: Dipartimento di Informatica,
-[Università di Pisa](https://www.unipi.it/)
-- **Address**: Largo Bruno Pontecorvo, 3 - 56127 - Pisa (Italy)
-
+- **Room**: 562
+- **Department** of Business and Management,
+[LUISS](https://www.unipi.it/) university
+- **Address**: Viale Romania 32, 00197 Rome
+- ** Mail **: nprezza [at] luiss.it
