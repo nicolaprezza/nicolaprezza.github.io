@@ -7,6 +7,6 @@ permalink: /contacts/
 
 - **Room**: 562
 - **Department** of Business and Management,
-[LUISS](https://www.unipi.it/) university
+[LUISS Guido Carli](https://www.unipi.it/) University
 - **Address**: Viale Romania 32, 00197 Rome
-- ** Mail **: nprezza [at] luiss.it
+- **Mail**: nprezza [at] luiss.it
