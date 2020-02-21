@@ -30,6 +30,8 @@ permalink: /publications/
 
 #### International Conferences ####
 
+1. Tomasz Kociumaka, Gonzalo Navarro and Nicola Prezza, 2020. *Towards a Definitive Measure of Repetitiveness*. Accepted at **LATIN 2020**.
+
 1. Philip Bille, Mikko Berggren Ettienne, Travis Gagie, Inge Li Gørtz, and Nicola Prezza. *Decompressing Lempel-Ziv Compressed Text*. Accepted at **DCC 2020**.
 
 1. Jarno Alanko, Giovanna D'Agostino, Alberto Policriti, and Nicola Prezza. *Regular Languages meet Prefix Sorting*. **SODA 2020**.

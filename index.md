@@ -6,20 +6,20 @@ layout: default
 
 <img src="figures/io2.jpg" align="right" width="50%" hspace="30" vspace="0" alt="be balanced" />
 
-Hi! I'm Assistant Professor of Computer Science at LUISS University, Rome. My research is mostly focused on algorithms and data structures for the manipulation and analysis of compressed strings and graphs, both from the theoretical and practical viewpoints and with applications to bioinformatics. I earned my Ph.D. in Computer science from the university of Udine in 2017, with a [thesis](pdfs/Compressed Computation for Text Indexing.pdf) on dynamic compressed data structures under the supervision of Prof. Alberto Policriti. After that, I have been postdoc researcher for one year at the technical university of Denmark, Copenhagen (DTU) and for two years at the university of Pisa. 
+Hi! I'm Assistant Professor of Computer Science at LUISS Guido Carli University in Rome. My research interests are mostly focused on algorithms and data structures for the manipulation and analysis of compressed strings and graphs, both from the theoretical and practical viewpoints and with applications to bioinformatics. I obtained a Ph.D. in Computer science from the university of Udine in 2017, with a [thesis](pdfs/Compressed Computation for Text Indexing.pdf) on dynamic compressed data structures under the supervision of Prof. Alberto Policriti. After that, I have been postdoc researcher for one year at the technical university of Denmark, Copenhagen (DTU) and for two years at the university of Pisa. 
 
-I co-authored more than 30 research articles within my research field and I developed the first C++ [library](github.com/xxsds/DYNAMIC) of dynamic compressed data structures, in addition to more than 30 other repositories dealing with data compression and bioinformatics. I am/have been on the program committees of CPM 2018, CPM 2020, SPIRE 2020, co-chaired the 13th Workshop on Compression, Text and Algorithms (WCTA 2018), and I have been invited speaker at ICTCS 2018, IABD 2019, CPM 2019, and SEA 2020. I am also the recipient of the 2018 [Best Young Researcher in Theoretical Computer Science](https://www.eatcs.org/index.php/italian-chapter) award of the Italian Chapter of the European Association for Theoretical Computer Science.
+I co-authored more than 30 research articles within my research field and I developed the first C++ [library](github.com/xxsds/DYNAMIC) of dynamic compressed data structures, in addition to more than 30 other repositories dealing with data compression and bioinformatics. I am/have been on the program committees of CPM 2018, CPM 2020, SPIRE 2020, co-chaired the 13th Workshop on Compression, Text and Algorithms (WCTA 2018), and I have been invited speaker at ICTCS 2018, IABD 2019, CPM 2019, and SEA 2020. I am also the recipient of the 2018 [Best Italian Young Researcher in Theoretical Computer Science](https://www.eatcs.org/index.php/italian-chapter) award of the Italian Chapter of the European Association for Theoretical Computer Science.
 
 # Selected Publications
 
 * Travis Gagie, Gonzalo Navarro, and Nicola Prezza, 2020. *Fully-Functional Suffix Trees and Optimal Text Searching in BWT-runs Bounded Space*.  **Journal of the ACM**. [https://doi.org/10.1145/3375890](https://doi.org/10.1145/3375890). Journal extension of:
-	* Travis Gagie, Gonzalo Navarro, and Nicola Prezza, 2018. *Optimal-Time Text Indexing in BWT-runs Bounded Space*. Proceedings of the 29th Annual ACM-SIAM Symposium on Discrete Algorithms, **SODA 2018**. Pages 1459-1477. [Download](pdfs/soda18_1.pdf).
+	* Travis Gagie, Gonzalo Navarro, and Nicola Prezza, 2018. *Optimal-Time Text Indexing in BWT-runs Bounded Space*. Proceedings of the 29th Annual ACM-SIAM Symposium on Discrete Algorithms, **SODA 2018**. Pages 1459-1477.
 <br /><br />
-* Jarno Alanko, Giovanna D'Agostino, Alberto Policriti, and Nicola Prezza. *Regular Languages meet Prefix Sorting*. **SODA 2020**. [Download](pdfs/soda20.pdf).
+* Jarno Alanko, Giovanna D'Agostino, Alberto Policriti, and Nicola Prezza. *Regular Languages meet Prefix Sorting*. **SODA 2020**.
 
-* Dominik Kempa and Nicola Prezza, 2018. *At the Roots of Dictionary Compression: String Attractors*. In Proceedings of the 50th Annual ACM SIGACT Symposium on Theory of Computing, **STOC 2018**, June 25-29, 2018, Los Angeles, CA. pp. 827-840. ACM. [Download](pdfs/stoc18.pdf).
+* Dominik Kempa and Nicola Prezza, 2018. *At the Roots of Dictionary Compression: String Attractors*. In Proceedings of the 50th Annual ACM SIGACT Symposium on Theory of Computing, **STOC 2018**, June 25-29, 2018, Los Angeles, CA. pp. 827-840. ACM.
 
-* Nicola Prezza, 2018. *In-Place Sparse Suffix Sorting*. Proceedings of the 29th Annual ACM-SIAM Symposium on Discrete Algorithms, **SODA 2018**. Pages 1496-1508. [Download](pdfs/soda18_2.pdf).
+* Nicola Prezza, 2018. *In-Place Sparse Suffix Sorting*. Proceedings of the 29th Annual ACM-SIAM Symposium on Discrete Algorithms, **SODA 2018**. Pages 1496-1508.
 
 # News
 
