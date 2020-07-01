@@ -30,9 +30,13 @@ permalink: /publications/
 
 #### International Conferences ####
 
+1. Nicola Prezza, 2020. *Indexing Compressed Text: A Tale of Time and Space (Invited Talk)*. 18th Symposium on Experimental Algorithms June 16-18, 2020 Catania, Italy. **SEA 2020**.
+
+1. Nicola Prezza and Giovanna Rosone, 2020. *Faster Online Computation of the Succinct Longest Previous Factor Array*. In: Beyond the Horizon of Computability. **CiE 2020** Lecture Notes in Computer Science, vol 12098. Springer, Cham
+
 1. Tomasz Kociumaka, Gonzalo Navarro and Nicola Prezza, 2020. *Towards a Definitive Measure of Repetitiveness*. Accepted at **LATIN 2020**.
 
-1. Philip Bille, Mikko Berggren Ettienne, Travis Gagie, Inge Li Gørtz, and Nicola Prezza. *Decompressing Lempel-Ziv Compressed Text*. Accepted at **DCC 2020**.
+1. Philip Bille, Mikko Berggren Ettienne, Travis Gagie, Inge Li Gørtz, and Nicola Prezza. *Decompressing Lempel-Ziv Compressed Text*. 2020 Data Compression Conference, **DCC 2020**, Snowbird, UT, USA, 2020, pp. 143-152, doi: 10.1109/DCC47342.2020.00022.
 
 1. Jarno Alanko, Giovanna D'Agostino, Alberto Policriti, and Nicola Prezza. *Regular Languages meet Prefix Sorting*. **SODA 2020**.
 
