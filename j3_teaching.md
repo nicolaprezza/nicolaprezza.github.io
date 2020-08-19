@@ -4,7 +4,9 @@ title: Teaching
 permalink: /teaching/
 ---
 
-- [**Laboratorio di Fondamenti di Programmazione**](http://pages.di.unipi.it/bodei/CORSO_FP_19/FP/index.html). University of Pisa, primo semestre AA 2019/2020. **Ricevimento su appuntamento**:  scrivere una mail a <nicola.prezza@di.unipi.it>
+- [**Informatica**](https://www.luiss.it/cattedreonline/corso/254/D/1EEL2BASE/2019). LUISS Guido Carli, Roma, secondo semestre AA 2019/2020.
+
+- [**Laboratorio di Fondamenti di Programmazione**](http://pages.di.unipi.it/bodei/CORSO_FP_19/FP/index.html). University of Pisa, primo semestre AA 2019/2020.
 
 - [**Laboratorio di Fondamenti di Programmazione**](http://pages.di.unipi.it/bodei/CORSO_FP_18/FP/index.html). University of Pisa, primo semestre AA 2018/2019. 
 
