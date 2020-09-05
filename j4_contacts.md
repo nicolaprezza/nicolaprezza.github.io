@@ -5,8 +5,8 @@ permalink: /contacts/
 ---
 
 
-- **Room**: 562
-- **Department** of Business and Management,
-[LUISS Guido Carli](https://impresaemanagement.luiss.it/en) University
-- **Address**: Viale Romania 32, 00197 Rome
-- **Mail**: nprezza [at] luiss.it
+- **Room**: TBD
+- **Department** of Environmental Sciences, Informatics and Statistics,
+[Ca' Foscari University](https://www.unive.it/pag/28183)
+- **Address**: via Torino 155, 30172 Mestre (VE), Italy
+- **Mail**: nicola.prezza [at] unive.it
