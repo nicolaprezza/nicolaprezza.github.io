@@ -10,7 +10,7 @@ permalink: /publications/
 
 #### International Journals ####
 
-1. Nicola Prezza, Nadia Pisanti, Marinella Sciortino, Giovanna Rosone. Variable-order reference-free variant discovery with the Burrows-Wheeler Transform. BMC Bioinformatics 21, 260 (2020). https://doi.org/10.1186/s12859-020-03586-3
+1. Nicola Prezza, Nadia Pisanti, Marinella Sciortino, Giovanna Rosone. Variable-order reference-free variant discovery with the Burrows-Wheeler Transform. **BMC Bioinformatics** 21, 260 (2020). https://doi.org/10.1186/s12859-020-03586-3
 
 1. Travis Gagie, Gonzalo Navarro, and Nicola Prezza, 2020. *Fully-Functional Suffix Trees and Optimal Text Searching in BWT-runs Bounded Space*. **Journal of the ACM**. [https://doi.org/10.1145/3375890](https://doi.org/10.1145/3375890).
 
