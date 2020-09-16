@@ -4,6 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
+- [**Informatica per i beni culturali**](https://www.unive.it/data/insegnamento/345425/). Ca' Foscari, Venezia, primo semestre AA 2020/2021.
+
 - [**Informatica**](https://www.luiss.it/cattedreonline/corso/254/D/1EEL2BASE/2019). LUISS Guido Carli, Roma, secondo semestre AA 2019/2020.
 
 - [**Laboratorio di Fondamenti di Programmazione**](http://pages.di.unipi.it/bodei/CORSO_FP_19/FP/index.html). University of Pisa, primo semestre AA 2019/2020.
