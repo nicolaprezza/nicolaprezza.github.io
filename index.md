@@ -23,7 +23,7 @@ I co-authored more than 30 research articles within my research field and I deve
 * Nicola Prezza, 2020. *Optimal Substring-Equality Queries with Applications to Sparse Text Indexing*. Accepted for publication in ACM Transactions on Algorithms (**TALG**). Journal extension of:
 	* Nicola Prezza, 2018. *In-Place Sparse Suffix Sorting*. Proceedings of the 29th Annual ACM-SIAM Symposium on Discrete Algorithms, **SODA 2018**. Pages 1496-1508.
 <br /><br />
-* Travis Gagie, Gonzalo Navarro, and Nicola Prezza, 2020. *Fully-Functional Suffix Trees and Optimal Text Searching in BWT-runs Bounded Space*.  **Journal of the ACM** (JACM). [https://doi.org/10.1145/3375890](https://doi.org/10.1145/3375890). Journal extension of:
+* Travis Gagie, Gonzalo Navarro, and Nicola Prezza, 2020. *Fully-Functional Suffix Trees and Optimal Text Searching in BWT-runs Bounded Space*.  Journal of the ACM (**JACM**). [https://doi.org/10.1145/3375890](https://doi.org/10.1145/3375890). Journal extension of:
 	* Travis Gagie, Gonzalo Navarro, and Nicola Prezza, 2018. *Optimal-Time Text Indexing in BWT-runs Bounded Space*. Proceedings of the 29th Annual ACM-SIAM Symposium on Discrete Algorithms, **SODA 2018**. Pages 1459-1477.
 <br /><br />
 * Jarno Alanko, Giovanna D'Agostino, Alberto Policriti, and Nicola Prezza. *Regular Languages meet Prefix Sorting*. **SODA 2020**.
