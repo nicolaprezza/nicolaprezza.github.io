@@ -14,14 +14,23 @@ I co-authored more than 30 research articles within my research field and I deve
 
 # Selected Publications
 
-* Travis Gagie, Gonzalo Navarro, and Nicola Prezza, 2020. *Fully-Functional Suffix Trees and Optimal Text Searching in BWT-runs Bounded Space*.  **Journal of the ACM**. [https://doi.org/10.1145/3375890](https://doi.org/10.1145/3375890). Journal extension of:
+* Nicola Cotumaccio and Nicola Prezza. *On Indexing and Compressing Finite Automata*. Accepted for publication in **SODA 2021**.
+
+* Nicola Prezza. *On Locating Paths in Compressed Tries*. Accepted for publication in **SODA 2021**.
+
+* Anders Roy Christiansen, Mikko Berggren Ettienne, Tomasz Kociumaka, Gonzalo Navarro, Nicola Prezza. *Optimal-Time Dictionary-Compressed Indexes*. Accepted for publication in ACM Transactions on Algorithms (**TALG**).
+
+* Nicola Prezza, 2020. *Optimal Substring-Equality Queries with Applications to Sparse Text Indexing*. Accepted for publication in ACM Transactions on Algorithms (**TALG**). Journal extension of:
+	* Nicola Prezza, 2018. *In-Place Sparse Suffix Sorting*. Proceedings of the 29th Annual ACM-SIAM Symposium on Discrete Algorithms, **SODA 2018**. Pages 1496-1508.
+
+* Travis Gagie, Gonzalo Navarro, and Nicola Prezza, 2020. *Fully-Functional Suffix Trees and Optimal Text Searching in BWT-runs Bounded Space*.  **Journal of the ACM** (JACM). [https://doi.org/10.1145/3375890](https://doi.org/10.1145/3375890). Journal extension of:
 	* Travis Gagie, Gonzalo Navarro, and Nicola Prezza, 2018. *Optimal-Time Text Indexing in BWT-runs Bounded Space*. Proceedings of the 29th Annual ACM-SIAM Symposium on Discrete Algorithms, **SODA 2018**. Pages 1459-1477.
 <br /><br />
 * Jarno Alanko, Giovanna D'Agostino, Alberto Policriti, and Nicola Prezza. *Regular Languages meet Prefix Sorting*. **SODA 2020**.
 
 * Dominik Kempa and Nicola Prezza, 2018. *At the Roots of Dictionary Compression: String Attractors*. In Proceedings of the 50th Annual ACM SIGACT Symposium on Theory of Computing, **STOC 2018**, June 25-29, 2018, Los Angeles, CA. pp. 827-840. ACM.
 
-* Nicola Prezza, 2018. *In-Place Sparse Suffix Sorting*. Proceedings of the 29th Annual ACM-SIAM Symposium on Discrete Algorithms, **SODA 2018**. Pages 1496-1508.
+
 
 # News
 
