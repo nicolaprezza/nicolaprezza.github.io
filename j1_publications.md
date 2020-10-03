@@ -10,17 +10,23 @@ permalink: /publications/
 
 #### International Journals ####
 
+1. Nicola Prezza, 2020. *Optimal Substring-Equality Queries with Applications to Sparse Text Indexing*. Accepted for publication in **ACM Transactions on Algorithms** (TALG). 
+
+1. Anders Roy Christiansen, Mikko Berggren Ettienne, Tomasz Kociumaka, Gonzalo Navarro, Nicola Prezza, 2020. *Optimal-Time Dictionary-Compressed Indexes*. Accepted for publication in **ACM Transactions on Algorithms** (TALG).
+
+1. Louza, F.A., Telles, G.P., Gog, S. et al, 2020. *gsufsort: constructing suffix arrays, LCP arrays and BWTs for string collections*. **Algorithms for Molecular Biology** (AMB) 15, 18 (2020). [https://doi.org/10.1186/s13015-020-00177-y](https://doi.org/10.1186/s13015-020-00177-y)
+
 1. Nicola Prezza, Nadia Pisanti, Marinella Sciortino, Giovanna Rosone. Variable-order reference-free variant discovery with the Burrows-Wheeler Transform. **BMC Bioinformatics** 21, 260 (2020). https://doi.org/10.1186/s12859-020-03586-3
 
-1. Travis Gagie, Gonzalo Navarro, and Nicola Prezza, 2020. *Fully-Functional Suffix Trees and Optimal Text Searching in BWT-runs Bounded Space*. **Journal of the ACM**. [https://doi.org/10.1145/3375890](https://doi.org/10.1145/3375890).
+1. Travis Gagie, Gonzalo Navarro, and Nicola Prezza, 2020. *Fully-Functional Suffix Trees and Optimal Text Searching in BWT-runs Bounded Space*. **Journal of the ACM** (JACM). [https://doi.org/10.1145/3375890](https://doi.org/10.1145/3375890).
 
 1. Antonio Fariña, Miguel A. Martı́nez-Prieto, Francisco Claude, Gonzalo Navarro, Juan J. Lastra-Díaz [r], Nicola Prezza [r], and Diego Seco [r], 2019 ([r] = reproducibility reviewers). *On the Reproducibility of Experiments of Indexing Repetitive Document Collections*. **Information Systems**, Volume 83, Pages 181-194.
 
-1. Nicola Prezza, Nadia Pisanti, Marinella Sciortino, and Giovanna Rosone, 2019. *SNPs detection by eBWT positional clustering*. **Algorithms for Molecular Biology**, 14(1), p.3.
+1. Nicola Prezza, Nadia Pisanti, Marinella Sciortino, and Giovanna Rosone, 2019. *SNPs detection by eBWT positional clustering*. **Algorithms for Molecular Biology** (AMB), 14(1), p.3.
 
-1. Gonzalo Navarro and Nicola Prezza, 2019. *Universal compressed text indexing*. **Theoretical Computer Science**, 762, pp.41-50.
+1. Gonzalo Navarro and Nicola Prezza, 2019. *Universal compressed text indexing*. **Theoretical Computer Science** (TCS), 762, pp.41-50.
 
-1. Philip Bille, Travis Gagie, Inge Li Gørtz, and Nicola Prezza, 2018. *A separation between RLSLPs and LZ77*. **Journal of Discrete Algorithms**, 50, pp.36-39.
+1. Philip Bille, Travis Gagie, Inge Li Gørtz, and Nicola Prezza, 2018. *A separation between RLSLPs and LZ77*. **Journal of Discrete Algorithms** (JDA), 50, pp.36-39.
 
 1. Karin Engström, Tomasz K. Wojdacz, Francesco Marabita, Philip Ewels, Max Käller, Francesco Vezzi, Nicola Prezza, Joel Gruselius, Marie Vahter, and Karin Broberg, 2017. *Transcriptomics and methylomics of CD4-positive T cells in arsenic-exposed women*. **Archives of toxicology** 91, no. 5 (2017): 2067-2078.
 
@@ -31,6 +37,12 @@ permalink: /publications/
 1. Alberto Policriti and Nicola Prezza, 2015. *Fast randomized approximate string matching with succinct hash data structures*. **BMC bioinformatics** 16, no. 9: S4.
 
 #### International Conferences ####
+
+1. Nicola Prezza, 2021. *On Locating Paths in Compressed Tries*. Accepted for publication in **SODA 2021**.
+
+1. Nicola Cotumaccio and Nicola Prezza, 2021. *On Indexing and Compressing Finite Automata*. Accepted for publication in **SODA 2021**.
+
+1. Sara Giuliani, Shunsuke Inenaga, Zsuzsanna Liptak, Nicola Prezza, Marinella Sciortino and Anna Toffanello, 2021. *Novel Results on the Number of Runs of the Burrows-Wheeler-Transform*. Accepted for publication in **SOFSEM 2021**.
 
 1. Nicola Prezza, 2020. *Indexing Compressed Text: A Tale of Time and Space (Invited Talk)*. 18th Symposium on Experimental Algorithms June 16-18, 2020 Catania, Italy. **SEA 2020**.
 
