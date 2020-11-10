@@ -10,6 +10,9 @@ permalink: /publications/
 
 #### International Journals ####
 
+1. Nicola Prezza and Giovanna Rosone, 2020. *Space-Efficient Construction of Compressed Suffix
+Trees*. Accepted for publication in **Theoretical Computer Science** (TCS). 
+
 1. Nicola Prezza, 2020. *Optimal Substring-Equality Queries with Applications to Sparse Text Indexing*. Accepted for publication in **ACM Transactions on Algorithms** (TALG). 
 
 1. Anders Roy Christiansen, Mikko Berggren Ettienne, Tomasz Kociumaka, Gonzalo Navarro, Nicola Prezza, 2020. *Optimal-Time Dictionary-Compressed Indexes*. Accepted for publication in **ACM Transactions on Algorithms** (TALG).
