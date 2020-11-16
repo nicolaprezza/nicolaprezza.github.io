@@ -10,12 +10,13 @@ permalink: /publications/
 
 #### International Journals ####
 
-1. Nicola Prezza and Giovanna Rosone, 2020. *Space-Efficient Construction of Compressed Suffix
-Trees*. Accepted for publication in **Theoretical Computer Science** (TCS). 
+1. Gonzalo Navarro, Carlos Ochoa, and Nicola Prezza. *On the Approximation Ratio of Ordered Parsings*. To appear in **IEEE Transactions on Information Theory** (IEEE TIT).
 
-1. Nicola Prezza, 2020. *Optimal Substring-Equality Queries with Applications to Sparse Text Indexing*. Accepted for publication in **ACM Transactions on Algorithms** (TALG). 
+1. Nicola Prezza and Giovanna Rosone. *Space-Efficient Construction of Compressed Suffix Trees*. To appear in **Theoretical Computer Science** (TCS). 
 
-1. Anders Roy Christiansen, Mikko Berggren Ettienne, Tomasz Kociumaka, Gonzalo Navarro, Nicola Prezza, 2020. *Optimal-Time Dictionary-Compressed Indexes*. Accepted for publication in **ACM Transactions on Algorithms** (TALG).
+1. Nicola Prezza. *Optimal Substring-Equality Queries with Applications to Sparse Text Indexing*. To appear in **ACM Transactions on Algorithms** (TALG). 
+
+1. Anders Roy Christiansen, Mikko Berggren Ettienne, Tomasz Kociumaka, Gonzalo Navarro, Nicola Prezza. *Optimal-Time Dictionary-Compressed Indexes*. To appear in **ACM Transactions on Algorithms** (TALG).
 
 1. Louza, F.A., Telles, G.P., Gog, S. et al, 2020. *gsufsort: constructing suffix arrays, LCP arrays and BWTs for string collections*. **Algorithms for Molecular Biology** (AMB) 15, 18 (2020). [https://doi.org/10.1186/s13015-020-00177-y](https://doi.org/10.1186/s13015-020-00177-y)
 
@@ -41,17 +42,17 @@ Trees*. Accepted for publication in **Theoretical Computer Science** (TCS).
 
 #### International Conferences ####
 
-1. Nicola Prezza, 2021. *On Locating Paths in Compressed Tries*. Accepted for publication in **SODA 2021**.
+1. Nicola Prezza, 2021. *On Locating Paths in Compressed Tries*. To appear in **SODA 2021**.
 
-1. Nicola Cotumaccio and Nicola Prezza, 2021. *On Indexing and Compressing Finite Automata*. Accepted for publication in **SODA 2021**.
+1. Nicola Cotumaccio and Nicola Prezza, 2021. *On Indexing and Compressing Finite Automata*. To appear in **SODA 2021**.
 
-1. Sara Giuliani, Shunsuke Inenaga, Zsuzsanna Liptak, Nicola Prezza, Marinella Sciortino and Anna Toffanello, 2021. *Novel Results on the Number of Runs of the Burrows-Wheeler-Transform*. Accepted for publication in **SOFSEM 2021**.
+1. Sara Giuliani, Shunsuke Inenaga, Zsuzsanna Liptak, Nicola Prezza, Marinella Sciortino and Anna Toffanello, 2021. *Novel Results on the Number of Runs of the Burrows-Wheeler-Transform*. To appear in **SOFSEM 2021**.
 
 1. Nicola Prezza, 2020. *Indexing Compressed Text: A Tale of Time and Space (Invited Talk)*. 18th Symposium on Experimental Algorithms June 16-18, 2020 Catania, Italy. **SEA 2020**.
 
 1. Nicola Prezza and Giovanna Rosone, 2020. *Faster Online Computation of the Succinct Longest Previous Factor Array*. In: Beyond the Horizon of Computability. **CiE 2020** Lecture Notes in Computer Science, vol 12098. Springer, Cham
 
-1. Tomasz Kociumaka, Gonzalo Navarro and Nicola Prezza, 2020. *Towards a Definitive Measure of Repetitiveness*. Accepted at **LATIN 2020**.
+1. Tomasz Kociumaka, Gonzalo Navarro and Nicola Prezza, 2020. *Towards a Definitive Measure of Repetitiveness*. To appear in **LATIN 2020**.
 
 1. Philip Bille, Mikko Berggren Ettienne, Travis Gagie, Inge Li Gørtz, and Nicola Prezza. *Decompressing Lempel-Ziv Compressed Text*. 2020 Data Compression Conference, **DCC 2020**, Snowbird, UT, USA, 2020, pp. 143-152, doi: 10.1109/DCC47342.2020.00022.
 
