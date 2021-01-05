@@ -10,13 +10,15 @@ permalink: /publications/
 
 #### International Journals ####
 
-1. Gonzalo Navarro, Carlos Ochoa, and Nicola Prezza. *On the Approximation Ratio of Ordered Parsings*. To appear in **IEEE Transactions on Information Theory** (IEEE TIT).
+1. Nicola Prezza, 2021. *Subpath Queries on Compressed Graphs: A Survey*. **Algorithms**. https://www.mdpi.com/1999-4893/14/1/14
 
-1. Nicola Prezza and Giovanna Rosone. *Space-Efficient Construction of Compressed Suffix Trees*. To appear in **Theoretical Computer Science** (TCS). 
+1. Gonzalo Navarro, Carlos Ochoa, and Nicola Prezza, 2020. *On the Approximation Ratio of Ordered Parsings*. **IEEE Transactions on Information Theory** (IEEE TIT).
 
-1. Nicola Prezza. *Optimal Substring-Equality Queries with Applications to Sparse Text Indexing*. To appear in **ACM Transactions on Algorithms** (TALG). 
+1. Nicola Prezza and Giovanna Rosone, 2020. *Space-Efficient Construction of Compressed Suffix Trees*. **Theoretical Computer Science** (TCS). 
 
-1. Anders Roy Christiansen, Mikko Berggren Ettienne, Tomasz Kociumaka, Gonzalo Navarro, Nicola Prezza. *Optimal-Time Dictionary-Compressed Indexes*. To appear in **ACM Transactions on Algorithms** (TALG).
+1. Nicola Prezza, 2020. *Optimal Substring-Equality Queries with Applications to Sparse Text Indexing*. **ACM Transactions on Algorithms** (TALG). 
+
+1. Anders Roy Christiansen, Mikko Berggren Ettienne, Tomasz Kociumaka, Gonzalo Navarro, Nicola Prezza. *Optimal-Time Dictionary-Compressed Indexes*. **ACM Transactions on Algorithms** (TALG).
 
 1. Louza, F.A., Telles, G.P., Gog, S. et al, 2020. *gsufsort: constructing suffix arrays, LCP arrays and BWTs for string collections*. **Algorithms for Molecular Biology** (AMB) 15, 18 (2020). [https://doi.org/10.1186/s13015-020-00177-y](https://doi.org/10.1186/s13015-020-00177-y)
 
