@@ -16,13 +16,13 @@ I co-authored more than 40 research articles within my research field and I deve
 
 * Nicola Prezza. *Subpath Queries on Compressed Graphs: A Survey*. **Algorithms**. [https://www.mdpi.com/1999-4893/14/1/14](https://www.mdpi.com/1999-4893/14/1/14)
 
-* Nicola Cotumaccio and Nicola Prezza. *On Indexing and Compressing Finite Automata*. To appear in **SODA 2021**.
+* Nicola Cotumaccio and Nicola Prezza. *On Indexing and Compressing Finite Automata*. **SODA 2021**.
 
-* Nicola Prezza. *On Locating Paths in Compressed Tries*. To appear in **SODA 2021**.
+* Nicola Prezza. *On Locating Paths in Compressed Tries*. **SODA 2021**.
 
-* Anders Roy Christiansen, Mikko Berggren Ettienne, Tomasz Kociumaka, Gonzalo Navarro, Nicola Prezza. *Optimal-Time Dictionary-Compressed Indexes*. To appear in ACM Transactions on Algorithms (**TALG**).
+* Anders Roy Christiansen, Mikko Berggren Ettienne, Tomasz Kociumaka, Gonzalo Navarro, Nicola Prezza. *Optimal-Time Dictionary-Compressed Indexes*. ACM Transactions on Algorithms (**TALG**).
 
-* Nicola Prezza, 2020. *Optimal Substring-Equality Queries with Applications to Sparse Text Indexing*. To appear in ACM Transactions on Algorithms (**TALG**). Journal extension of:
+* Nicola Prezza, 2020. *Optimal Substring-Equality Queries with Applications to Sparse Text Indexing*. ACM Transactions on Algorithms (**TALG**). Journal extension of:
 	* Nicola Prezza, 2018. *In-Place Sparse Suffix Sorting*. Proceedings of the 29th Annual ACM-SIAM Symposium on Discrete Algorithms, **SODA 2018**. Pages 1496-1508.
 <br /><br />
 * Travis Gagie, Gonzalo Navarro, and Nicola Prezza, 2020. *Fully-Functional Suffix Trees and Optimal Text Searching in BWT-runs Bounded Space*.  Journal of the ACM (**JACM**). [https://doi.org/10.1145/3375890](https://doi.org/10.1145/3375890). Journal extension of:
