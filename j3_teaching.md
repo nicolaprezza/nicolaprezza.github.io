@@ -4,6 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
+- [**Programmazione e laboratorio**](https://www.unive.it/data/insegnamento/336117). Ca' Foscari, Venezia, secondo semestre AA 2020/2021.
+
 - [**Informatica per i beni culturali**](https://www.unive.it/data/insegnamento/345425/). Ca' Foscari, Venezia, primo semestre AA 2020/2021.
 
 - [**Informatica**](https://www.luiss.it/cattedreonline/corso/254/D/1EEL2BASE/2019). LUISS Guido Carli, Roma, secondo semestre AA 2019/2020.
