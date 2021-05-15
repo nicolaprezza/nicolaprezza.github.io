@@ -36,6 +36,7 @@ I co-authored more than 40 research articles within my research field and I deve
 
 # News
 
+* Program committee and special session chair (Computation Over Compressed Data) of DCC 2022 (Data Compression Conference).
 * Program committee of IWOCA 2021 (International Workshop on Combinatorial Algorithms) and ISAAC 2021 (International Symposium on Algorithms and Computation).
 * I received the Italian National Scientific Habilitation (ASN) in Computer Science and in Computer Engineering.
 * Program committee of the 27th International Symposium on String Processing and Information Retrieval [SPIRE 2020], to be held in Orlando, Florida.
