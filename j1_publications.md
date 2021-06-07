@@ -44,11 +44,13 @@ permalink: /publications/
 
 #### International Conferences ####
 
-1. Nicola Prezza, 2021. *On Locating Paths in Compressed Tries*. To appear in **SODA 2021**.
+1. Giuseppe F. Italiano, Nicola Prezza, Blerina Sinaimeri, Rossano Venturini. *Compressed Weighted de Bruijn Graphs*. To appear in **CPM 2021**
 
-1. Nicola Cotumaccio and Nicola Prezza, 2021. *On Indexing and Compressing Finite Automata*. To appear in **SODA 2021**.
+1. Nicola Prezza, 2021. *On Locating Paths in Compressed Tries*. **SODA 2021**.
 
-1. Sara Giuliani, Shunsuke Inenaga, Zsuzsanna Liptak, Nicola Prezza, Marinella Sciortino and Anna Toffanello, 2021. *Novel Results on the Number of Runs of the Burrows-Wheeler-Transform*. To appear in **SOFSEM 2021**.
+1. Nicola Cotumaccio and Nicola Prezza, 2021. *On Indexing and Compressing Finite Automata*. **SODA 2021**.
+
+1. Sara Giuliani, Shunsuke Inenaga, Zsuzsanna Liptak, Nicola Prezza, Marinella Sciortino and Anna Toffanello, 2021. *Novel Results on the Number of Runs of the Burrows-Wheeler-Transform*. **SOFSEM 2021**.
 
 1. Nicola Prezza, 2020. *Indexing Compressed Text: A Tale of Time and Space (Invited Talk)*. 18th Symposium on Experimental Algorithms June 16-18, 2020 Catania, Italy. **SEA 2020**.
 
