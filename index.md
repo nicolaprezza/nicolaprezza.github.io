@@ -36,11 +36,12 @@ I co-authored more than 40 research articles within my research field and I deve
 
 # News
 
+* Invited speaker at the 28th International Symposium on String Processing and Information Retrieval, October 4-6th, 2021 - Lille, France [SPIRE 2021](https://www.cristal.univ-lille.fr/spire2021/)
 * Program committee and special session chair (Computation Over Compressed Data) of DCC 2022 (Data Compression Conference).
 * Program committee of IWOCA 2021 (International Workshop on Combinatorial Algorithms) and ISAAC 2021 (International Symposium on Algorithms and Computation).
 * I received the Italian National Scientific Habilitation (ASN) in Computer Science and in Computer Engineering.
 * Program committee of the 27th International Symposium on String Processing and Information Retrieval [SPIRE 2020], to be held in Orlando, Florida.
-* Invited speaker at the 18th Symposium on Experimental Algorithms June 16-18, 2020, Catania, Italy. [SEA 2020](http://www.sea2020.dmi.unict.it/).
+* Invited speaker at the 18th Symposium on Experimental Algorithms, June 16-18, 2020, Catania, Italy. [SEA 2020](http://www.sea2020.dmi.unict.it/).
 * Invited speaker at The 5th International Workshop on Innovative Algorithms for Big Data [IABD 2019](https://sites.google.com/view/iabd2019/iabd2019), Kyoto.
 * Program committee of the 31th Annual Symposium on Combinatorial Pattern Matching [CPM 2020], to be held in Copenhagen.
 * Keynote speaker at the first [AlgPie](https://algpie.mimuw.edu.pl/) workshop organized by IGAFIT, Poland.
