@@ -6,7 +6,7 @@ permalink: /teaching/
 
 Courses I teach/taught:
 
-<br>
+
 ----
 ### Algorithms for massive data
 
