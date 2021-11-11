@@ -10,6 +10,8 @@ permalink: /publications/
 
 #### International Journals ####
 
+1. Jarno Alanko, Giovanna D'Agostino, Alberto Policriti, Nicola Prezza. *Wheeler language*. **Information and Computation**, 2021, 104820, ISSN 0890-5401, https://doi.org/10.1016/j.ic.2021.104820
+
 1. Nicola Prezza, 2021. *Subpath Queries on Compressed Graphs: A Survey*. **Algorithms**. [https://www.mdpi.com/1999-4893/14/1/14](https://www.mdpi.com/1999-4893/14/1/14)
 
 1. Gonzalo Navarro, Carlos Ochoa, and Nicola Prezza, 2020. *On the Approximation Ratio of Ordered Parsings*. **IEEE Transactions on Information Theory** (IEEE TIT).
