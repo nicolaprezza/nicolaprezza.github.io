@@ -4,15 +4,36 @@ title: Teaching
 permalink: /teaching/
 ---
 
-- [**Programmazione e laboratorio**](https://www.unive.it/data/insegnamento/336117). Ca' Foscari, Venezia, secondo semestre AA 2020/2021.
+---- ### Algorithms for massive data ###
 
-- [**Informatica per i beni culturali**](https://www.unive.it/data/insegnamento/345425/). Ca' Foscari, Venezia, primo semestre AA 2020/2021.
+---- ### Programmazione e laboratorio (Ca' Foscari)###
 
-- [**Informatica**](https://www.luiss.it/cattedreonline/corso/254/D/1EEL2BASE/2019). LUISS Guido Carli, Roma, secondo semestre AA 2019/2020.
+link: [**Programmazione e laboratorio**](https://www.unive.it/data/insegnamento/336117). Ca' Foscari, Venezia, secondo semestre AA 2020/2021.
 
-- [**Laboratorio di Fondamenti di Programmazione**](http://pages.di.unipi.it/bodei/CORSO_FP_19/FP/index.html). University of Pisa, primo semestre AA 2019/2020.
+---- ### Data management (Ca' Foscari)###
 
-- [**Laboratorio di Fondamenti di Programmazione**](http://pages.di.unipi.it/bodei/CORSO_FP_18/FP/index.html). University of Pisa, primo semestre AA 2018/2019. 
+link: [**Data management 2020/2021**](https://www.unive.it/data/insegnamento/279210). Ca' Foscari, Venezia, secondo semestre AA 2020/2021.
+
+---- ### Informatica per i beni culturali (Ca' Foscari) ###
+
+links: 
+
+- [**Informatica per i beni culturali 2021/2022**](https://www.unive.it/data/insegnamento/357156). Ca' Foscari, Venezia, primo semestre AA 2021/2022.
+- [**Informatica per i beni culturali 2020/2021**](https://www.unive.it/data/insegnamento/345425/). Ca' Foscari, Venezia, primo semestre AA 2020/2021.
+
+---- ### Informatica (LUISS) ###
+
+link: [**Informatica**](https://www.luiss.it/cattedreonline/corso/254/D/1EEL2BASE/2019). LUISS Guido Carli, Roma, secondo semestre AA 2019/2020.
+
+---- ### Laboratorio di Fondamenti di Programmazione (Università di Pisa) ###
+
+links:
+
+- [**Laboratorio di Fondamenti di Programmazione 2019/2020**](http://pages.di.unipi.it/bodei/CORSO_FP_19/FP/index.html). University of Pisa, primo semestre AA 2019/2020.
+- [**Laboratorio di Fondamenti di Programmazione 2018/2019**](http://pages.di.unipi.it/bodei/CORSO_FP_18/FP/index.html). University of Pisa, primo semestre AA 2018/2019. 
+
+
+---- ### Other: ###
 
 - International summer school on [**Compact data structures**](https://www.udc.es/gl/iss/courses/courses_2018/Compact_data_structures/index.html). Universidade da Coruña (Spain). July 30 - August 17, 2018, 6 ECTS. Lecturers: Travis Gagie and Nicola Prezza. 
 
