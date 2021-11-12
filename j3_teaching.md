@@ -52,7 +52,7 @@ links:
 ----
 ### Other:
 
-- International summer school on [**Compact data structures**](http://www.birdsproject.eu/course-compact-data-structures-during-udcs-international-summer-school-2018/). Universidade da Coruña (Spain). July 30 - August 17, 2018, 6 ECTS. Lecturers: Travis Gagie and Nicola Prezza. 
+- International summer school on [**Compact data structures**](https://tv.udc.gal/series/5b6172ca11cad1b7168b4569). Universidade da Coruña (Spain). July 30 - August 17, 2018, 6 ECTS. Lecturers: Travis Gagie and Nicola Prezza. 
 
 - [**Compact data structures**](http://www2.compute.dtu.dk/courses/02951/). PhD course. Technical University of Denmark (DTU), Kgs. Lyngby. September - December 2017. 
 
