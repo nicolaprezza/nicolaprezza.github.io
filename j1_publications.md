@@ -10,7 +10,7 @@ permalink: /publications/
 
 #### International Journals ####
 
-1. Jarno Alanko, Giovanna D'Agostino, Alberto Policriti, Nicola Prezza. *Wheeler language*. **Information and Computation**, 2021, 104820, ISSN 0890-5401, https://doi.org/10.1016/j.ic.2021.104820
+1. Jarno Alanko, Giovanna D'Agostino, Alberto Policriti, Nicola Prezza. *Wheeler languages*. **Information and Computation**, 2021, 104820, ISSN 0890-5401, https://doi.org/10.1016/j.ic.2021.104820
 
 1. Nicola Prezza, 2021. *Subpath Queries on Compressed Graphs: A Survey*. **Algorithms**. [https://www.mdpi.com/1999-4893/14/1/14](https://www.mdpi.com/1999-4893/14/1/14)
 
@@ -46,7 +46,7 @@ permalink: /publications/
 
 #### International Conferences ####
 
-1. Giuseppe F. Italiano, Nicola Prezza, Blerina Sinaimeri, Rossano Venturini. *Compressed Weighted de Bruijn Graphs*. To appear in **CPM 2021**
+1. Giuseppe F. Italiano, Nicola Prezza, Blerina Sinaimeri, Rossano Venturini. *Compressed Weighted de Bruijn Graphs*. **CPM 2021**
 
 1. Nicola Prezza, 2021. *On Locating Paths in Compressed Tries*. **SODA 2021**.
 
@@ -58,7 +58,7 @@ permalink: /publications/
 
 1. Nicola Prezza and Giovanna Rosone, 2020. *Faster Online Computation of the Succinct Longest Previous Factor Array*. In: Beyond the Horizon of Computability. **CiE 2020** Lecture Notes in Computer Science, vol 12098. Springer, Cham
 
-1. Tomasz Kociumaka, Gonzalo Navarro and Nicola Prezza, 2020. *Towards a Definitive Measure of Repetitiveness*. To appear in **LATIN 2020**.
+1. Tomasz Kociumaka, Gonzalo Navarro and Nicola Prezza, 2020. *Towards a Definitive Measure of Repetitiveness*. **LATIN 2020**.
 
 1. Philip Bille, Mikko Berggren Ettienne, Travis Gagie, Inge Li Gørtz, and Nicola Prezza. *Decompressing Lempel-Ziv Compressed Text*. 2020 Data Compression Conference, **DCC 2020**, Snowbird, UT, USA, 2020, pp. 143-152, doi: 10.1109/DCC47342.2020.00022.
 
