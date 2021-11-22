@@ -11,9 +11,9 @@ permalink: /publications/
 #### International Journals ####
 
 1. Gabriele Fici, Nicola Prezza, Rossano Venturini. *Adaptive learning of compressible strings*. **Theoretical Computer Science**, Volume 896, 2021, Pages 46-52, ISSN 0304-3975,
-https://doi.org/10.1016/j.tcs.2021.10.003.
+[https://doi.org/10.1016/j.tcs.2021.10.003](https://doi.org/10.1016/j.tcs.2021.10.003).
 
-1. Jarno Alanko, Giovanna D'Agostino, Alberto Policriti, Nicola Prezza. *Wheeler languages*. **Information and Computation**, 2021, 104820, ISSN 0890-5401, https://doi.org/10.1016/j.ic.2021.104820
+1. Jarno Alanko, Giovanna D'Agostino, Alberto Policriti, Nicola Prezza. *Wheeler languages*. **Information and Computation**, 2021, 104820, ISSN 0890-5401, [https://doi.org/10.1016/j.ic.2021.104820](https://doi.org/10.1016/j.ic.2021.104820).
 
 1. Nicola Prezza, 2021. *Subpath Queries on Compressed Graphs: A Survey*. **Algorithms**. [https://www.mdpi.com/1999-4893/14/1/14](https://www.mdpi.com/1999-4893/14/1/14)
 
@@ -27,7 +27,7 @@ https://doi.org/10.1016/j.tcs.2021.10.003.
 
 1. Louza, F.A., Telles, G.P., Gog, S. et al, 2020. *gsufsort: constructing suffix arrays, LCP arrays and BWTs for string collections*. **Algorithms for Molecular Biology** (AMB) 15, 18 (2020). [https://doi.org/10.1186/s13015-020-00177-y](https://doi.org/10.1186/s13015-020-00177-y)
 
-1. Nicola Prezza, Nadia Pisanti, Marinella Sciortino, Giovanna Rosone. Variable-order reference-free variant discovery with the Burrows-Wheeler Transform. **BMC Bioinformatics** 21, 260 (2020). https://doi.org/10.1186/s12859-020-03586-3
+1. Nicola Prezza, Nadia Pisanti, Marinella Sciortino, Giovanna Rosone. Variable-order reference-free variant discovery with the Burrows-Wheeler Transform. **BMC Bioinformatics** 21, 260 (2020). [https://doi.org/10.1186/s12859-020-03586-3](https://doi.org/10.1186/s12859-020-03586-3)
 
 1. Travis Gagie, Gonzalo Navarro, and Nicola Prezza, 2020. *Fully-Functional Suffix Trees and Optimal Text Searching in BWT-runs Bounded Space*. **Journal of the ACM** (JACM). [https://doi.org/10.1145/3375890](https://doi.org/10.1145/3375890).
 
