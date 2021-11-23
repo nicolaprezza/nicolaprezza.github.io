@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-<img src="figures/io_unive.jpg" align="right" width="30%" hspace="40" vspace="0" alt="be balanced" />
+<img src="figures/io_unive.jpg" align="right" width="40%" hspace="30" vspace="0" alt="be balanced" />
 
 Full CV [here](pdfs/CV.pdf).
 
