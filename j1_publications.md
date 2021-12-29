@@ -49,6 +49,10 @@ permalink: /publications/
 
 #### International Conferences ####
 
+1. Jarno Alanko, Nicola Cotumaccio, Nicola Prezza. *Linear-time Minimization of Wheeler DFAs*. **DCC 2022**
+
+1. Dominik Köppl, Gonzalo Navarro, Nicola Prezza. *HOLZ: High-Order Entropy Encoding of Lempel-Ziv Factor Distances*. **DCC 2022**
+
 1. Giuseppe F. Italiano, Nicola Prezza, Blerina Sinaimeri, Rossano Venturini. *Compressed Weighted de Bruijn Graphs*. **CPM 2021**
 
 1. Nicola Prezza, 2021. *On Locating Paths in Compressed Tries*. **SODA 2021**.
