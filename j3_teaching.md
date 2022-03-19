@@ -8,6 +8,12 @@ Courses I teach/have taught:
 
 <br>
 ----
+### Compressed data structures (Ca' Foscari)
+
+[link](https://www.unive.it/data/insegnamento/364606)
+
+<br>
+----
 ### Algorithms for massive data (University of Udine)
 
 [My notes on sketching and streaming algorithms](pdfs/Algorithms_for_massive_data___notes.pdf). PhD in Computer Science, Mathematics, and Physics / School for Advanced Studies of the university of Udine, AA 2021/2022.
