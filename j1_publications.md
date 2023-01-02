@@ -10,6 +10,8 @@ permalink: /publications/
 
 #### International Journals ####
 
+1. Tomasz Kociumaka, Gonzalo Navarro, Nicola Prezza, *Towards a Definitive Compressibility Measure for Repetitive Sequences*, in **IEEE Transactions on Information Theory**, [https://doi.org/10.1109/TIT.2022.3224382](https://doi.org/10.1109/TIT.2022.3224382)
+
 1. Gabriele Fici, Nicola Prezza, Rossano Venturini. *Adaptive learning of compressible strings*. **Theoretical Computer Science**, Volume 896, 2021, Pages 46-52, ISSN 0304-3975,
 [https://doi.org/10.1016/j.tcs.2021.10.003](https://doi.org/10.1016/j.tcs.2021.10.003).
 
