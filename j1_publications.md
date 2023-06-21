@@ -51,6 +51,8 @@ permalink: /publications/
 
 #### International Conferences ####
 
+1. Sung-Hwan Kim, Francisco Olivares, Nicola Prezza. *Faster Prefix-Sorting Algorithms for Deterministic Finite Automata*. **CPM 2023**
+
 1. Jarno Alanko, Nicola Cotumaccio, Nicola Prezza. *Linear-time Minimization of Wheeler DFAs*. **DCC 2022**
 
 1. Dominik Köppl, Gonzalo Navarro, Nicola Prezza. *HOLZ: High-Order Entropy Encoding of Lempel-Ziv Factor Distances*. **DCC 2022**
