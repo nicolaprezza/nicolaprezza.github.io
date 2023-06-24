@@ -51,8 +51,7 @@ permalink: /publications/
 
 #### International Conferences ####
 
-1. Alessio Conte, Nicola Cotumaccio, Travis Gagie, Giovanni Manzini, Nicola Prezza, Marinella Sciortino. *Computing matching statistics on Wheeler DFAs
-*. **DCC 2023**
+1. Alessio Conte, Nicola Cotumaccio, Travis Gagie, Giovanni Manzini, Nicola Prezza, Marinella Sciortino. *Computing matching statistics on Wheeler DFAs*. **DCC 2023**
 
 1. Sung-Hwan Kim, Francisco Olivares, Nicola Prezza. *Faster Prefix-Sorting Algorithms for Deterministic Finite Automata*. **CPM 2023**
 
