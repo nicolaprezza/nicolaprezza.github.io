@@ -14,10 +14,9 @@ I co-authored more than 40 research articles within my research field and I deve
 
 # Selected Publications
 
-* Nicola Prezza. *Subpath Queries on Compressed Graphs: A Survey*. **Algorithms**. [https://www.mdpi.com/1999-4893/14/1/14](https://www.mdpi.com/1999-4893/14/1/14)
-
-* Nicola Cotumaccio and Nicola Prezza. *On Indexing and Compressing Finite Automata*. **SODA 2021**.
-
+* Nicola Cotumaccio, Giovanna D’Agostino, Alberto Policriti, Nicola Prezza. *Co-lexicographically Ordering Automata and Regular Languages - Part I*. Journal of the ACM (**JACM**). [https://dl.acm.org/doi/10.1145/3607471](https://dl.acm.org/doi/10.1145/3607471). Journal extension of:
+	* Nicola Cotumaccio and Nicola Prezza. *On Indexing and Compressing Finite Automata*. **SODA 2021**.
+<br /><br />
 * Nicola Prezza. *On Locating Paths in Compressed Tries*. **SODA 2021**.
 
 * Anders Roy Christiansen, Mikko Berggren Ettienne, Tomasz Kociumaka, Gonzalo Navarro, Nicola Prezza. *Optimal-Time Dictionary-Compressed Indexes*. ACM Transactions on Algorithms (**TALG**).
