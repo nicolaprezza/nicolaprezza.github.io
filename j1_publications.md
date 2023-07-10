@@ -10,6 +10,8 @@ permalink: /publications/
 
 #### International Journals ####
 
+1. Nicola Cotumaccio, Giovanna D’Agostino, Alberto Policriti, Nicola Prezza. *Co-lexicographically Ordering Automata and Regular Languages - Part I*. **Journal of the ACM** (JACM). [https://dl.acm.org/doi/10.1145/3607471](https://dl.acm.org/doi/10.1145/3607471)
+
 1. Tomasz Kociumaka, Gonzalo Navarro, Nicola Prezza, *Towards a Definitive Compressibility Measure for Repetitive Sequences*, in **IEEE Transactions on Information Theory**, [https://doi.org/10.1109/TIT.2022.3224382](https://doi.org/10.1109/TIT.2022.3224382)
 
 1. Gabriele Fici, Nicola Prezza, Rossano Venturini. *Adaptive learning of compressible strings*. **Theoretical Computer Science**, Volume 896, 2021, Pages 46-52, ISSN 0304-3975,
@@ -50,6 +52,8 @@ permalink: /publications/
 1. Alberto Policriti and Nicola Prezza, 2015. *Fast randomized approximate string matching with succinct hash data structures*. **BMC bioinformatics** 16, no. 9: S4.
 
 #### International Conferences ####
+
+1. Ruben Becker, Manuel Cáceres, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Francisco Olivares, Nicola Prezza. *Sorting Finite Automata via Partition Refinement*. **ESA 2023**.
 
 1. Alessio Conte, Nicola Cotumaccio, Travis Gagie, Giovanni Manzini, Nicola Prezza, Marinella Sciortino. *Computing matching statistics on Wheeler DFAs*. **DCC 2023**
 
