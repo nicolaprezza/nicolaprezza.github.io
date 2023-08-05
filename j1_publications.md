@@ -53,6 +53,10 @@ permalink: /publications/
 
 #### International Conferences ####
 
+1. Ruben Becker, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Alberto Policriti and Nicola Prezza. *Optimal Wheeler Language Recognition*. **SPIRE 2023**.
+
+1. Nicola Cotumaccio, Travis Gagie, Dominik Koeppl and Nicola Prezza. *Space-time Trade-offs for the LCP Array of Wheeler DFAs*. **SPIRE 2023**.
+
 1. Ruben Becker, Manuel Cáceres, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Francisco Olivares, Nicola Prezza. *Sorting Finite Automata via Partition Refinement*. **ESA 2023**.
 
 1. Alessio Conte, Nicola Cotumaccio, Travis Gagie, Giovanni Manzini, Nicola Prezza, Marinella Sciortino. *Computing matching statistics on Wheeler DFAs*. **DCC 2023**
