@@ -8,6 +8,46 @@ Courses I teach/have taught:
 
 <br>
 ----
+### Algorithms for Massive Data (Ca' Foscari - CM0622)
+
+- [Ca' Foscari link](https://www.unive.it/data/insegnamento/398288)
+
+Material:
+
+- [[Pre] My notes on sketching and streaming algorithms.](https://arxiv.org/pdf/2301.00754.pdf)
+- [[Nav] Compact Data Structures: A Practical Approach. Gonzalo Navarro.](https://www.cambridge.org/core/books/compact-data-structures/68A5983E6F1176181291E235D0B7EB44)
+- [[Cha] Data Stream Algorithms. Lecture Notes. Amit Chakrabarti.](https://www.cs.dartmouth.edu/~ac/Teach/data-streams-lecnotes.pdf)
+- [[Dem-Fin] Algorithms for Data Streams. Demetrescu-Finocchi.](https://www.dei.unipd.it/~geppo/PrAvAlg/DOCS/DFchapter08.pdf)
+
+2022/2023 programme:
+
+- 15/02/2023 - course intro, asymptotic notation [Nav, sec 1.5]
+- 17/02/2023 - basics of information theory [Nav, sec 2.1 - 2.5]
+- 01/03/2023 - Shannon-Fano, Huffman, variable length codes, bitvectors [Nav, sec 2.6 - 2.9, 4.1.1]
+- 03/03/2023 - zero-order compressed bitvector with access and rank [Nav, sec 4.1.1, 4.2, slides]
+- 04/04/2023 - very sparse bitvectors (Elias-Fano) [Nav 4.4, slides], intro to compressed indexing [slides]
+- 08/03/2023 - Compressed suffix array (CSA) [Nav 11.1, slides]
+- 10/03/2023 - Wavelet trees [Nav 6.2, slides] and Burrows-Wheeler transform [Nav 11.3.1, slides]
+- 11/03/2023 - FM index [NAV 11.2, slides]
+- 15/03/2023 - Recap of probability theory [Pre 1.1]
+- 17/03/2023  - Concentration bounds [Pre 1.2], Introduction to hashing [Pre 1.3]
+- 24/03/2023 - k-wise independent and universal hashing, hash tables [Pre 1.3]
+- 25/03/2023 - hash tables (cont) [Pre 1.3], Bloom filters [Pre 2.1]
+- 29/03/2023 - Counting Bloom filters [Pre 2.2]
+- 31/03/2023 - Quotient Filters [Pre 2.3]
+- 05/04/2023 - Rabin hashing [Pre 3.1], MinHash - min-wise permutations [Pre 3.2.1]
+- 07/04/2023 - minHash [Pre 3.2.2], sketching for Hamming distance [Pre 3.3], LSH [Pre 3.5]
+- 12/04/2023 - Locality-Sensitive Hashing (LSH), Nearest Neighbor Search (NNS) [Pre 3.5]
+- 14/04/2023 - Intro to streaming, cardinality estimation with MinHash, Reservoir sampling [Pre ch. 4 intro], [Dem-Fin ch. 8]
+- 19/04/2023 - Pattern matching on streams: Karp-Rabin, Porat&Porat [Pre 4.1.1, 4.1.2]
+- 21/04/2023 - Approximate pattern matching on streams (Hamming distance) [Pre 4.1.2]
+- 26/04/2023 - Probabilistic counting: Morris' algorithm, Median trick [Pre 4.2]
+- 28/04/2023 - Cardinality estimation: idealized FM, bottom-k [Pre 4.3]
+- 03/05/2023 - Frequency estimation, Misra-Gries [Cha unit 1], second order moment, Tug-Of war, dimensionality reduction [Cha unit 7]
+- 05/05/2023 - Sum integers in a window: DGIM algorithm [Pre 4.4]
+
+<br>
+----
 ### Compressed data structures (Ca' Foscari)
 
 [link](https://www.unive.it/data/insegnamento/364606)
