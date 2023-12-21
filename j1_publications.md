@@ -53,6 +53,8 @@ permalink: /publications/
 
 #### International Conferences ####
 
+1. Stefano Calzavara, Lorenzo Cazzaro, Giulio Ermanno Pibiri, and Nicola Prezza. *Verifiable Learning for Robust Tree Ensembles*. **ACM CCS 2023**.
+   
 1. Ruben Becker, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Alberto Policriti and Nicola Prezza. *Optimal Wheeler Language Recognition*. **SPIRE 2023**.
 
 1. Nicola Cotumaccio, Travis Gagie, Dominik Koeppl and Nicola Prezza. *Space-time Trade-offs for the LCP Array of Wheeler DFAs*. **SPIRE 2023**.
