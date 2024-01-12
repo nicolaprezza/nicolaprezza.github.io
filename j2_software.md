@@ -4,7 +4,9 @@ title: Software
 permalink: /software/
 ---
 
-Most of my software can be found at my [github page](https://github.com/nicolaprezza). Below you can find  a list of my main projects.
+- [REGINDEX website](https://pric.unive.it/projects/regindex)
+- [REGINDEX GitHub page](https://github.com/regindex)
+- [My github page](https://github.com/nicolaprezza)
 
 <br>
 ----
