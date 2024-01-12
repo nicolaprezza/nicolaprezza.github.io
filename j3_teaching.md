@@ -56,13 +56,13 @@ Material:
 ----
 ### Algorithms for massive data (University of Udine)
 
-[My notes on sketching and streaming algorithms](https://arxiv.org/pdf/2301.00754.pdf). PhD in Computer Science, Mathematics, and Physics / School for Advanced Studies of the university of Udine, AA 2021/2022.
+[My notes on sketching and streaming algorithms](https://arxiv.org/pdf/2301.00754.pdf). PhD in Computer Science, Mathematics, and Physics / School for Advanced Studies of the university of Udine, AA 2021/2022, 2022/2023, 2023/2024.
 
 <br>
 ----
 ### Programmazione e laboratorio (Ca' Foscari)
 
-link: [**Programmazione e laboratorio**](https://www.unive.it/data/insegnamento/336117). Ca' Foscari, Venezia, secondo semestre AA 2020/2021 - 2021/2022 - 2022/2023 - 2023/2024.
+link: [**Programmazione e laboratorio**](https://www.unive.it/data/course/493953). Ca' Foscari, Venezia, secondo semestre AA 2020/2021 - 2021/2022 - 2022/2023 - 2023/2024.
 
 <br>
 ----
