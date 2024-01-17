@@ -33,7 +33,7 @@ I co-authored more than 60 research articles within my research field and I deve
 
 # News
 
-* Invited talk at the workshop [New horizons of stringology](https://conferences.cirm-math.fr/3086.html), Cirm, Marseille, France.
+* Invited talk at the workshop [New horizons of stringology](https://conferences.cirm-math.fr/3086.html) 2024, CIRM, Marseille, France.
 * Program Committee and special session chair of Data Compression Conference 2024, 2022.
 * Invited speaker at [Genome Informatics 2022](https://coursesandconferences.wellcomeconnectingscience.org/event/genome-informatics-20220921/)
 * Program committee of [SWAT 2022](https://www.setur.fo/en/education/swat-2022/), [ICTCS 2022](https://easyconferences.eu/ictcs2022/), [SPIRE 2022](http://spire2022.inf.udec.cl/)
