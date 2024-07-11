@@ -53,6 +53,12 @@ permalink: /publications/
 
 #### International Conferences ####
 
+1. Giovanni Manzini, Alberto Policriti, Nicola Prezza, Brian Riccardi. *The Rational Construction of a Wheeler DFA*. **CPM 2024**. [https://doi.org/10.4230/LIPIcs.CPM.2024.23](https://doi.org/10.4230/LIPIcs.CPM.2024.23)
+
+1. Ruben Becker, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Riccardo Maso, Nicola Prezza. *Random Wheeler Automata*. **CPM 2024**. [https://doi.org/10.4230/LIPIcs.CPM.2024.5](https://doi.org/10.4230/LIPIcs.CPM.2024.5)
+
+1. Jarno N. Alanko, Davide Cenzato, Nicola Cotumaccio, Sung-Hwan Kim, Giovanni Manzini, Nicola Prezza. *Computing the LCP Array of a Labeled Graph*. **CPM 2024**. [https://doi.org/10.4230/LIPIcs.CPM.2024.1](https://doi.org/10.4230/LIPIcs.CPM.2024.1)
+
 1. Patrick Dinklage, Johnnes Fischer, and Nicola Prezza. *Top-k Frequent Patterns in Streams and Parameterized-Space LZ Compression*. In 22nd International Symposium on Experimental Algorithms (**SEA 2024**). [https://doi.org/10.4230/LIPIcs.SEA.2024.9](https://doi.org/10.4230/LIPIcs.SEA.2024.9)
 
 1. Ruben Becker, Matteo Canton, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, and Nicola Prezza. *Sketching and Streaming for Dictionary Compression*. **DCC 2024**.
