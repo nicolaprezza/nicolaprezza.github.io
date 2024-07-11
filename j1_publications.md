@@ -53,6 +53,8 @@ permalink: /publications/
 
 #### International Conferences ####
 
+1. Patrick Dinklage, Johnnes Fischer, and Nicola Prezza. *Top-k Frequent Patterns in Streams and Parameterized-Space LZ Compression*. In 22nd International Symposium on Experimental Algorithms (**SEA 2024**). [https://doi.org/10.4230/LIPIcs.SEA.2024.9](https://doi.org/10.4230/LIPIcs.SEA.2024.9)
+
 1. Ruben Becker, Matteo Canton, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, and Nicola Prezza. *Sketching and Streaming for Dictionary Compression*. **DCC 2024**.
 
 1. Stefano Calzavara, Lorenzo Cazzaro, Giulio Ermanno Pibiri, and Nicola Prezza. *Verifiable Learning for Robust Tree Ensembles*. **ACM CCS 2023**.
