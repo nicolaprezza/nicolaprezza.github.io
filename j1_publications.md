@@ -61,21 +61,21 @@ permalink: /publications/
 
 1. Patrick Dinklage, Johnnes Fischer, and Nicola Prezza. *Top-k Frequent Patterns in Streams and Parameterized-Space LZ Compression*. In 22nd International Symposium on Experimental Algorithms (**SEA 2024**). [https://doi.org/10.4230/LIPIcs.SEA.2024.9](https://doi.org/10.4230/LIPIcs.SEA.2024.9)
 
-1. Ruben Becker, Matteo Canton, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, and Nicola Prezza. *Sketching and Streaming for Dictionary Compression*. **DCC 2024**.
+1. Ruben Becker, Matteo Canton, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, and Nicola Prezza. *Sketching and Streaming for Dictionary Compression*. **DCC 2024**. [https://doi.org/10.1109/DCC58796.2024.00029](https://doi.org/10.1109/DCC58796.2024.00029)
 
 1. Stefano Calzavara, Lorenzo Cazzaro, Giulio Ermanno Pibiri, and Nicola Prezza. *Verifiable Learning for Robust Tree Ensembles*. **ACM CCS 2023**.
    
-1. Ruben Becker, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Alberto Policriti and Nicola Prezza. *Optimal Wheeler Language Recognition*. **SPIRE 2023**.
+1. Ruben Becker, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Alberto Policriti and Nicola Prezza. *Optimal Wheeler Language Recognition*. **SPIRE 2023**. [https://doi.org/10.1007/978-3-031-43980-3_6](https://doi.org/10.1007/978-3-031-43980-3_6)
 
-1. Nicola Cotumaccio, Travis Gagie, Dominik Koeppl and Nicola Prezza. *Space-time Trade-offs for the LCP Array of Wheeler DFAs*. **SPIRE 2023**.
+1. Nicola Cotumaccio, Travis Gagie, Dominik Koeppl and Nicola Prezza. *Space-time Trade-offs for the LCP Array of Wheeler DFAs*. **SPIRE 2023**. [https://doi.org/10.1007/978-3-031-43980-3_12](https://doi.org/10.1007/978-3-031-43980-3_12)
 
-1. Ruben Becker, Manuel Cáceres, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Francisco Olivares, Nicola Prezza. *Sorting Finite Automata via Partition Refinement*. **ESA 2023**.
+1. Ruben Becker, Manuel Cáceres, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Francisco Olivares, Nicola Prezza. *Sorting Finite Automata via Partition Refinement*. **ESA 2023**. [https://doi.org/10.4230/LIPIcs.ESA.2023.15](https://doi.org/10.4230/LIPIcs.ESA.2023.15)
 
-1. Alessio Conte, Nicola Cotumaccio, Travis Gagie, Giovanni Manzini, Nicola Prezza, Marinella Sciortino. *Computing matching statistics on Wheeler DFAs*. **DCC 2023**
+1. Alessio Conte, Nicola Cotumaccio, Travis Gagie, Giovanni Manzini, Nicola Prezza, Marinella Sciortino. *Computing matching statistics on Wheeler DFAs*. **DCC 2023**. [https://doi.org/10.1109/DCC55655.2023.00023](https://doi.org/10.1109/DCC55655.2023.00023)
 
-1. Sung-Hwan Kim, Francisco Olivares, Nicola Prezza. *Faster Prefix-Sorting Algorithms for Deterministic Finite Automata*. **CPM 2023**
+1. Sung-Hwan Kim, Francisco Olivares, Nicola Prezza. *Faster Prefix-Sorting Algorithms for Deterministic Finite Automata*. **CPM 2023**. [https://doi.org/10.4230/LIPIcs.CPM.2023.16](https://doi.org/10.4230/LIPIcs.CPM.2023.16)
 
-1. Jarno Alanko, Nicola Cotumaccio, Nicola Prezza. *Linear-time Minimization of Wheeler DFAs*. **DCC 2022**
+1. Jarno Alanko, Nicola Cotumaccio, Nicola Prezza. *Linear-time Minimization of Wheeler DFAs*. **DCC 2022**. [https://doi.org/10.1109/DCC52660.2022.00013](https://doi.org/10.1109/DCC52660.2022.00013)
 
 1. Dominik Köppl, Gonzalo Navarro, Nicola Prezza. *HOLZ: High-Order Entropy Encoding of Lempel-Ziv Factor Distances*. **DCC 2022**
 
