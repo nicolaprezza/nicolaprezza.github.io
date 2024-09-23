@@ -53,6 +53,10 @@ permalink: /publications/
 
 #### International Conferences ####
 
+1. Ruben Becker, Sung-Hwan Kim, Nicola Prezza, Carlo Tosoni. *Indexing Finite-State Automata Using Forward-Stable Partitions*. **SPIRE 2024**. [https://doi.org/10.1007/978-3-031-72200-4_3](https://doi.org/10.1007/978-3-031-72200-4_3)
+
+1. Davide Cenzato, Francisco Olivares, Nicola Prezza. *On Computing the Smallest Suffixient Set*. **SPIRE 2024**. [https://doi.org/10.1007/978-3-031-72200-4_6](https://doi.org/10.1007/978-3-031-72200-4_6)
+
 1. Giovanni Manzini, Alberto Policriti, Nicola Prezza, Brian Riccardi. *The Rational Construction of a Wheeler DFA*. **CPM 2024**. [https://doi.org/10.4230/LIPIcs.CPM.2024.23](https://doi.org/10.4230/LIPIcs.CPM.2024.23)
 
 1. Ruben Becker, Davide Cenzato, Sung-Hwan Kim, Bojana Kodric, Riccardo Maso, Nicola Prezza. *Random Wheeler Automata*. **CPM 2024**. [https://doi.org/10.4230/LIPIcs.CPM.2024.5](https://doi.org/10.4230/LIPIcs.CPM.2024.5)
