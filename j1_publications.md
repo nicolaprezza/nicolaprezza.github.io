@@ -164,4 +164,4 @@ permalink: /publications/
 
 1. Alberto Policriti, Nicola Prezza (Editors). *Special Issue on Algorithms and Data-Structures for Compressed Computation*. Algorithms 15(12): 457 (2022). [https://www.mdpi.com/1999-4893/15/12/457](https://www.mdpi.com/1999-4893/15/12/457)
 
-1. 1. Nicola Prezza, 2020. *Indexing Compressed Text: A Tale of Time and Space (Extended abstract of invited talk)*. 18th Symposium on Experimental Algorithms June 16-18, 2020 Catania, Italy. **SEA 2020**.
+1. Nicola Prezza, 2020. *Indexing Compressed Text: A Tale of Time and Space (Extended abstract of invited talk)*. 18th Symposium on Experimental Algorithms June 16-18, 2020 Catania, Italy. **SEA 2020**.
