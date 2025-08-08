@@ -4,11 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
-#### PhD thesis ####
+### PhD thesis ###
 
 - Nicola Prezza, 2017. [*Compressed Computation for Text Indexing*](pdfs/Compressed Computation for Text Indexing.pdf). University of Udine. Supervisor: prof. Alberto Policriti. Awarded one of the two *Best Scientific PhD thesis award 2017, University of Udine*. 
 
-#### International Journals ####
+### International Journals ###
 
 1. Nicola Cotumaccio, Giovanna D’Agostino, Alberto Policriti, Nicola Prezza. *Co-lexicographically Ordering Automata and Regular Languages - Part I*. **Journal of the ACM** (JACM). [https://dl.acm.org/doi/10.1145/3607471](https://dl.acm.org/doi/10.1145/3607471)
 
@@ -51,7 +51,7 @@ permalink: /publications/
 
 1. Alberto Policriti and Nicola Prezza, 2015. *Fast randomized approximate string matching with succinct hash data structures*. **BMC bioinformatics** 16, no. 9: S4.
 
-#### International Conferences ####
+### International Conferences ###
 
 1. Ruben Becker, Nicola Cotumaccio, Sung-Hwan Kim, Nicola Prezza, Carlo Tosoni. *Encoding Co-Lex Orders of Finite-State Automata in Linear Space*. **CPM 2025**: 15:1-15:17. [https://doi.org/10.4230/LIPIcs.CPM.2025.15](https://doi.org/10.4230/LIPIcs.CPM.2025.15)
 
