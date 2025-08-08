@@ -147,7 +147,6 @@ permalink: /publications/
 1. Alberto Policriti, Nicola Gigante, and Nicola Prezza, 2015. *Average linear time and compressed space construction of the Burrows-Wheeler transform*. In 9th International Conference on Language and Automata Theory and Applications **LATA 2015**, pp. 587-598. Springer, Cham.
 
 1. Alberto Policriti and Nicola Prezza, 2014. *Hashing and indexing: Succinct data structures and smoothed analysis*. In 25th International Symposium on Algorithms and Computation **ISAAC 2014**, pp. 157-168. Springer, Cham.
-2. 
 
 1. Nicola Prezza, Cristian Del Fabbro, Francesco Vezzi, Emanuale De Paoli, and Alberto Policriti, 2012. *ERNE-BS5: aligning BS-treated sequences by multiple hits on a 5-letters alphabet*. In Proceedings of the ACM conference on bioinformatics, computational biology and biomedicine
 **ACM-BCB 2012**, pp. 12-19. ACM.
@@ -157,12 +156,12 @@ permalink: /publications/
 
 1. Nicola Cotumaccio, Giovanna D'Agostino, Daniel Gibney, Alberto Policriti, Nicola Prezza, and Sharma V. Thankachan. *Wheeler Graphs and Wheeler Languages*. In The Expanding World of Compressed Data: A Festschrift for Giovanni Manzini's 60th Birthday. Open Access Series in Informatics (OASIcs), Volume 131, pp. 12:1-12:28, Schloss Dagstuhl – Leibniz-Zentrum für Informatik (2025). [https://doi.org/10.4230/OASIcs.Manzini.12](https://doi.org/10.4230/OASIcs.Manzini.12)
 
-1. Petra Mutzel, Nicola Prezza Preface to *23rd International Symposium on Experimental Algorithms*, **SEA 2025**, July 22-24, 2025, Venice, Italy. LIPIcs 338, Schloss Dagstuhl - Leibniz-Zentrum für Informatik 2025, ISBN 978-3-95977-375-1. [https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-338](https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-338)
+1. Petra Mutzel, Nicola Prezza (Editors). Preface to *23rd International Symposium on Experimental Algorithms*, **SEA 2025**, July 22-24, 2025, Venice, Italy. LIPIcs 338, Schloss Dagstuhl - Leibniz-Zentrum für Informatik 2025, ISBN 978-3-95977-375-1. [https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-338](https://drops.dagstuhl.de/entities/volume/LIPIcs-volume-338)
 
-1. Travis Gagie, Nicola Prezza. *Preface to "Computation over Compressed Data at DCC 2022*. Inf. Comput. 302: 105165 (2025). [https://doi.org/10.1016/j.ic.2024.105165](https://doi.org/10.1016/j.ic.2024.105165)
+1. Travis Gagie, Nicola Prezza (Editors). *Preface to Computation over Compressed Data at DCC 2022*. Inf. Comput. 302: 105165 (2025). [https://doi.org/10.1016/j.ic.2024.105165](https://doi.org/10.1016/j.ic.2024.105165)
 
-1. Mai Alzamel, Costas S. Iliopoulos, Dimitrios Letsios, Nicola Prezza. *Special Issue of Algorithmica for the 28th London Stringology Days & London Algorithmic Workshop (LSD & LAW)*. Algorithmica 84(3): 565 (2022). [https://link.springer.com/article/10.1007/s00453-021-00901-z](https://link.springer.com/article/10.1007/s00453-021-00901-z)
+1. Mai Alzamel, Costas S. Iliopoulos, Dimitrios Letsios, Nicola Prezza (Editors). *Special Issue of Algorithmica for the 28th London Stringology Days & London Algorithmic Workshop (LSD & LAW)*. Algorithmica 84(3): 565 (2022). [https://link.springer.com/article/10.1007/s00453-021-00901-z](https://link.springer.com/article/10.1007/s00453-021-00901-z)
 
-1. Alberto Policriti, Nicola Prezza. *Special Issue on Algorithms and Data-Structures for Compressed Computation*. Algorithms 15(12): 457 (2022). [https://www.mdpi.com/1999-4893/15/12/457](https://www.mdpi.com/1999-4893/15/12/457)
+1. Alberto Policriti, Nicola Prezza (Editors). *Special Issue on Algorithms and Data-Structures for Compressed Computation*. Algorithms 15(12): 457 (2022). [https://www.mdpi.com/1999-4893/15/12/457](https://www.mdpi.com/1999-4893/15/12/457)
 
 1. 1. Nicola Prezza, 2020. *Indexing Compressed Text: A Tale of Time and Space (Extended abstract of invited talk)*. 18th Symposium on Experimental Algorithms June 16-18, 2020 Catania, Italy. **SEA 2020**.
