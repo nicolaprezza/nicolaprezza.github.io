@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-<img src="figures/nicola.png" align="right" width="40%" hspace="30" vspace="0" alt="be balanced" />
+<img src="figures/nicola.png" align="right" width="50%" hspace="30" vspace="0" alt="be balanced" />
 
 Hi! I'm an Associate Professor of Computer Science at Ca' Foscari University of Venice. My research interests include algorithms and data structures for the manipulation and analysis of compressed strings and graphs, both from the theoretical and practical viewpoints and with applications to bioinformatics. I received my Ph.D. in Computer science from the university of Udine in 2017, with a [thesis](pdfs/Compressed Computation for Text Indexing.pdf) on dynamic compressed data structures under the supervision of Prof. Alberto Policriti. After that, I have been postdoc researcher for one year at the technical university of Denmark, Copenhagen (DTU), for two more years at the university of Pisa, and then Assistant Professor at LUISS Guido Carli University, Rome.
 
