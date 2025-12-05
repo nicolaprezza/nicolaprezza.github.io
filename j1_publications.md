@@ -53,6 +53,8 @@ permalink: /publications/
 
 ### International Conferences ###
 
+1. Ruben Becker, Giuseppa Castiglione, Giovanna D'Agostino, Alberto Policriti, Nicola Prezza, Antonio Restivo, Brian Riccardi. *Universally Wheeler Languages*. **DLT 2025**. [https://doi.org/10.1007/978-3-032-01475-7_4](https://doi.org/10.1007/978-3-032-01475-7_4)
+
 1. Ruben Becker, Nicola Cotumaccio, Sung-Hwan Kim, Nicola Prezza, Carlo Tosoni. *Encoding Co-Lex Orders of Finite-State Automata in Linear Space*. **CPM 2025**: 15:1-15:17. [https://doi.org/10.4230/LIPIcs.CPM.2025.15](https://doi.org/10.4230/LIPIcs.CPM.2025.15)
 
 1. Hideo Bannai, Philip Bille, Inge Li Gørtz, Gad M. Landau, Gonzalo Navarro, Nicola Prezza, Teresa Anna Steiner, Simon Rumle Tarnow.
