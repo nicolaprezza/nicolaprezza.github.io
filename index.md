@@ -35,6 +35,7 @@ I'm part of the **RAVEN - Research on Algorithms VENice** group at Ca' Foscari u
 
 # News
 
+* The [RAVEN](https://raven-laboratory.github.io/) website is live!
 * Invited speaker at the [36th Annual Symposium on Combinatorial Pattern Matching (CPM)](https://cpm2025.pangenome.eu/), June 19-19 2025, Milano. 
 * Invited speaker at the workshop [New horizons of stringology](https://conferences.cirm-math.fr/3086.html) 2024, CIRM, Marseille, France.
 * Program Committee and special session chair of Data Compression Conference 2024, 2022.
