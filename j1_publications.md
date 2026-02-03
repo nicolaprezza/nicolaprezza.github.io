@@ -6,10 +6,12 @@ permalink: /publications/
 
 ### PhD thesis ###
 
-- Nicola Prezza, 2017. [*Compressed Computation for Text Indexing*](pdfs/Compressed Computation for Text Indexing.pdf). University of Udine. Supervisor: prof. Alberto Policriti. Awarded one of the two *Best Scientific PhD thesis award 2017, University of Udine*. 
+- Nicola Prezza, 2017. [*Compressed Computation for Text Indexing*](pdfs/Compressed Computation for Text Indexing.pdf). University of Udine. Supervisor: prof. Alberto Policriti. Awarded one of the two *Best Scientific PhD thesis award 2017, University of Udine*.
 
 ### International Journals ###
 
+1. Ruben Becker, Davide Cenzato, Sung-Hwan Kim, Tomasz Kociumaka, Bojana Kodric, Alberto Policriti, Nicola Prezza. [*On the complexity of computing the co-lexicographic width of a regular language*](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fc%2F1mWqn_W0wNvn5/1/0102019c08ee7cb6-75cd4c65-2a1f-4228-b209-d91f900b3d2e-000000/xzhCXZNsPzB5Lru4zHlph6gj0gg=463). **Journal of Computer and System Sciences** (JCSS)
+ 
 1. Nicola Cotumaccio, Giovanna D’Agostino, Alberto Policriti, Nicola Prezza. *Co-lexicographically Ordering Automata and Regular Languages - Part I*. **Journal of the ACM** (JACM). [https://dl.acm.org/doi/10.1145/3607471](https://dl.acm.org/doi/10.1145/3607471)
 
 1. Tomasz Kociumaka, Gonzalo Navarro, Nicola Prezza, *Towards a Definitive Compressibility Measure for Repetitive Sequences*, in **IEEE Transactions on Information Theory**, [https://doi.org/10.1109/TIT.2022.3224382](https://doi.org/10.1109/TIT.2022.3224382)
