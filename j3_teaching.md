@@ -11,10 +11,7 @@ Courses I teach/have taught:
 ### Algorithms for Massive Data (Ca' Foscari - CM0622)
 
 - [Ca' Foscari link](https://www.unive.it/data/course/576784)
-
-Material:
-
-- [[Pre] My notes on sketching and streaming algorithms.](https://arxiv.org/pdf/2301.00754.pdf)
+- Material: [My lecture notes](https://arxiv.org/pdf/2301.00754.pdf)
 
 <br>
 ----
