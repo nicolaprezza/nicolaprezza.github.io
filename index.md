@@ -13,6 +13,7 @@ I co-authored more than 60 research articles within my research field and I deve
 I'm part of the **RAVEN - Research on Algorithms VENice** group at Ca' Foscari university of Venice. Check out [our website](https://raven-laboratory.github.io/)!
 
 # Selected Publications
+* Ruben Becker, Davide Cenzato, Travis Gagie, Ragnar Groot Koerkamp, Sung-Hwan Kim, Giovanni Manzini, and Nicola Prezza. *Compressing Suffix Trees by Path Decompositions*. To appear in the Proceedings of the 53rd International Colloquium on Automata, Languages, and Programming, **ICALP 2026**.
 
 * Nicola Cotumaccio, Giovanna D’Agostino, Alberto Policriti, Nicola Prezza. *Co-lexicographically Ordering Automata and Regular Languages - Part I*. Journal of the ACM (**JACM**). [https://dl.acm.org/doi/10.1145/3607471](https://dl.acm.org/doi/10.1145/3607471). Journal extension of:
 	* Nicola Cotumaccio and Nicola Prezza. *On Indexing and Compressing Finite Automata*. **SODA 2021**.
