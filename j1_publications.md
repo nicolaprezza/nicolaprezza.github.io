@@ -55,7 +55,11 @@ permalink: /publications/
 
 ### International Conferences ###
 
-1. Ruben Becker, Davide Cenzato, Travis Gagie, Ragnar Groot Koerkamp, Sung-Hwan Kim, Giovanni Manzini, and Nicola Prezza. *Compressing Suffix Trees by Path Decompositions*. To appear in the Proceedings of the 53rd International Colloquium on Automata, Languages, and Programming, **ICALP 2026**.
+1. Ruben Becker, Davide Cenzato, Nicola Prezza, and Daniel Puttini. *On Computing Minimum Wheeler DFA From Their Language*. To appear in the proceedings of the 34th European Symposium on Algorithms. **ESA 2026**.
+
+1. Ferdinando Cicalese, Travis Gagie, Zsuzsanna Liptak, Gonzalo Navarro, Nicola Prezza, and Cristian Urbina. *Incongruity-sensitive access to highly compressed strings*. To appear in the proceedings of the 34th European Symposium on Algorithms. **ESA 2026**.
+
+1. Ruben Becker, Davide Cenzato, Travis Gagie, Ragnar Groot Koerkamp, Sung-Hwan Kim, Giovanni Manzini, and Nicola Prezza. *Compressing Suffix Trees by Path Decompositions*. Proceedings of the 53rd International Colloquium on Automata, Languages, and Programming, **ICALP 2026**. [https://doi.org/10.4230/LIPIcs.ICALP.2026.24](https://doi.org/10.4230/LIPIcs.ICALP.2026.24)
 
 1. Ruben Becker, Giuseppa Castiglione, Giovanna D'Agostino, Alberto Policriti, Nicola Prezza, Antonio Restivo, Brian Riccardi. *Universally Wheeler Languages*. **DLT 2025**. [https://doi.org/10.1007/978-3-032-01475-7_4](https://doi.org/10.1007/978-3-032-01475-7_4)
 
