@@ -55,6 +55,9 @@ permalink: /publications/
 
 ### International Conferences ###
 
+1. Riccardo Maso, Nicola Prezza, and Carlo Tosoni. *Faster Cache-Efficient Pattern Matching for Deterministic
+Wheeler Pangenome Graphs*. To appear in the proceedings of the 27th Italian Conference on Theoretical Computer Science. **ICTCS 2026**.
+ 
 1. Ruben Becker, Davide Cenzato, Nicola Prezza, and Daniel Puttini. *On Computing Minimum Wheeler DFA From Their Language*. To appear in the proceedings of the 34th European Symposium on Algorithms. **ESA 2026**.
 
 1. Ferdinando Cicalese, Travis Gagie, Zsuzsanna Liptak, Gonzalo Navarro, Nicola Prezza, and Cristian Urbina. *Incongruity-sensitive access to highly compressed strings*. To appear in the proceedings of the 34th European Symposium on Algorithms. **ESA 2026**.
