@@ -10,7 +10,7 @@ permalink: /publications/
 
 ### International Journals ###
 
-1. Cenzato, D., Depuydt, L., Gagie, T. et al. [*Suffixient Arrays: A New Efficient Suffix Array Compression Technique*](https://doi.org/10.1007/s00224-026-10287-6). Theory Comput Syst 70, 50 (2026). 
+1. Cenzato, D., Depuydt, L., Gagie, T. et al. [*Suffixient Arrays: A New Efficient Suffix Array Compression Technique*](https://doi.org/10.1007/s00224-026-10287-6). **Theory of Computing Systems** 70, 50 (2026). 
 
 1. Ruben Becker, Davide Cenzato, Sung-Hwan Kim, Tomasz Kociumaka, Bojana Kodric, Alberto Policriti, Nicola Prezza. [*On the complexity of computing the co-lexicographic width of a regular language*](https://doi.org/10.1016/j.jcss.2026.103759). **Journal of Computer and System Sciences** (JCSS)
  
